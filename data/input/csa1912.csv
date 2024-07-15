@@ -1,0 +1,883 @@
+﻿MyID;SourceID;SectionN;Section;Name;UniversityN;University;Address;Membership in January 1912;Start_year;End_year;Source;Page
+P001;1;Eastern;E;Au, H. M.;Syracuse University;Syracuse University;Sims Hall, Syracuse, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;75
+P003;3;Eastern;E;Bien, Mrs. Eleanor;;;81 Barnes St., Providence, R. I.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;75
+P004;4;Eastern;E;Bien, Z. S.;;;81 Barnes St., Providence, R. I.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;75
+P044;45;Eastern;E;Chang, Z. Y.;Cornell University;Cornell;Cosmopolitan Club House, Ithaca, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;76
+P035;36;Eastern;E;Chang, Peng-chun;;;28 Hollywood St., Worcester, Mass.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;76
+P040;41;Eastern;E;Chang Tsun;;;47th St. Botolph St., Boston, Mass.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;76
+P042;43;Eastern;E;Chang, Miss Yu-jung;;;3 Gramercy Park, New York, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;76
+P045;46;Eastern;E;Chant, Ralph;;;225 E. 31st St., New York, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;76
+P047;48;Eastern;E;Chao, Y. R.;;;127 Linden Ave., Ithaca, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;76
+P048;49;Eastern;E;Chao, Kwang Yi;;;413 Dryden Road, Ithaca, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;76
+P024;25;Eastern;E;Chan, Yew Yung;Columbia University;Columbia University;911 Livingston Hall, New York, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;77
+P029;30;Eastern;E;Chang, F. L.;;;888 Yale Station, New Haven, Conn.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;77
+P032;33;Eastern;E;Chang, Loy;;;12 Sumner St., Cambridge, Mass.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;77
+P059;60;Eastern;E;Chen, H. C.;Columbia University;Columbia University;1003 Hartley Hall, New York, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;78
+P068;69;Eastern;E;Chen, Shao-kwan;Columbia University;Columbia University;526 Hartley Hall, New York, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;78
+P065;66;Eastern;E;Chen, P. H.;Cushing Academy;Cushing Academy;Ashburnham, Mass.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;78
+P057;58;Eastern;E;Chen, C. S.;;;227 Bryant Ave., Ithaca, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;78
+P063;64;Eastern;E;Chen, M. K.;;;216 Delaware Ave., Ithaca, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;78
+P067;68;Eastern;E;Chen, Shao-ching;;;134 St. Botolph St., Boston, Mass.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;78
+P070;71;Eastern;E;Chen, S. Y.;;;120 Huntington Ave., Boston, Mass.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;78
+P071;72;Eastern;E;Chen, Ting-fang;;;264 Pleasant St., New Bedford, Mass.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;78
+P074;75;Eastern;E;Chen, T. L.;Missionary Institute;Missionary Institute;S. Nyack, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;79
+P081;82;Eastern;E;Chen, C. L.;Pennsylvania Military College;Pennsylvania Military College;Chester, Penn.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;79
+P076;77;Eastern;E;Chen, William T.;;;112 Magnolia Terrace, Springfield, Mass.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;79
+P079;80;Eastern;E;Chen, Ye Tsau;;;321 Dryden Road, Ithaca, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;79
+P080;81;Eastern;E;Cheng, Miss Amy F.;;;8 Wilder, Wellesley, Mass.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;79
+P084;85;Eastern;E;Cheng, Ensang W.;;;48 Trowbridge St., Cambridge, Mass.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;79
+P089;90;Eastern;E;Cheu, Bei Han;;;218 Delaware Ave., Ithaca, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;79
+P092;93;Eastern;E;Chien, F. S.;;;12 Sumner Road, Cambridge, Mass.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;79
+P125;127;Eastern;E;Chow, Kai-chi;Columbia University;Columbia University;Hartley Hall, New York, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;81
+P118;120;Eastern;E;Chou, Ming Yu;University of Virginia;University of Virginia;care of Mrs. Saunder's, Virginia;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;81
+P119;121;Eastern;E;Chow, Chambers;;;266 Shepard St., Cambridge, Mass.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;81
+P120;122;Eastern;E;Chow, C. S.;;;416 W. 118th St., New York, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;81
+P121;123;Eastern;E;Chow, C. S. K.;;;878 Yale Station, New Haven, Conn.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;81
+P123;125;Eastern;E;Chow, Hou-Kun;;;33 St. Botolph St., Boston, Mass.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;81
+P124;126;Eastern;E;Chow, J.;;;302 Bryant Ave. Ithaca, N.Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;81
+P130;132;Eastern;E;Chow, Tse-ki;;;Prof. E. A. White, Mt. Pleasant, Amherst, Mass.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;81
+P136;138;Eastern;E;Chu, C. H.;Columbia University;Columbia University;407 Livingston Hall, New York, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;82
+P140;142;Eastern;E;Chu, Miss Grace;Cushing Academy;Cushing Academy;Ashburnham, Mass.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;82
+P133;135;Eastern;E;Chow, Ziang-yien;;;8 Dalton St., Boston, Mass.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;82
+P139;141;Eastern;E;Chu-Fuh, Chimin B.;;;37 Taylor Hall, S. Bethlehem, Pa.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;82
+P141;143;Eastern;E;Chu, Henry H.;;;1721 Park Ave., Philadelphia, Pa.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;82
+P144;146;Eastern;E;Chu, T. C.;;;14 Conant Hall, Cambridge, Mass.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;82
+P149;151;Eastern;E;Chu, W. H.;;;9 Phillips St., Amherst, Mass.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;82
+P150;152;Eastern;E;Chu, Y. M.;;;42 Rutland Sq., Boston, Mass.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;82
+P151;153;Eastern;E;Chuan, S. J.;;;170 Yale Sta., New Haven, Conn.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;82
+P163;165;Eastern;E;Chun, Yen-shou;Columbia University;Columbia University;932 Hartley Hall, New York, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;83
+P165;167;Eastern;E;Chung, Chantung P.;Medical School of Virginia;Medical School of Virginia;Richmond, Va.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;83
+P153;155;Eastern;E;Chuck, H. S.;;;124 Linden Ave., Ithaca, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;83
+P155;157;Eastern;E;Chun, F. S.;;;216 Delaware Ave., Ithaca, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;83
+P157;159;Eastern;E;Chun, King W.;;;Box 206, S. Bethlehem, Pa.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;83
+P158;160;Eastern;E;Chun, K. K.;;;41 Dartmouth St. Springfield, Mass.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;83
+P160;162;Eastern;E;Chun, Woon-young;;;90 Pleasant St., Amherst, Mass.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;83
+P161;163;Eastern;E;Chun, W. S.;;;52 Yale Sta., New Haven, Conn.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;83
+P164;166;Eastern;E;Chun, Miss Ying-mei;;;28 Eliot Cottage, Wellesley, Mass.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;83
+P167;169;Eastern;E;Chung, Daniel M.;;;795 Yale Station, New Haven, Conn.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;83
+P168;170;Eastern;E;Chung, J. K.;;;887 Yale Station, New Haven, Conn.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;83
+P169;171;Eastern;E;Chung, M. Y.;;;810 Yale Station, New Haven, Conn.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;83
+P188;190;Eastern;E;Dzung, Kai-ying;Columbia University;Columbia University;103 Hartley Hall, New York, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;84
+P191;193;Eastern;E;Fay, T.Y.;Columbia University;Columbia University;629 Hartley Hall, New York, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;85
+P231;234;Eastern;E;Hou, C. F.;;;401 Dryden Road, Ithaca, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;87
+P232;235;Eastern;E;Hou, M. C.;;;39 St. Botolph St., Boston, Mass.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;87
+P234;237;Eastern;E;Hsi, Techun;;;106 Belvidere St., Boston, Mass.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;87
+P235;238;Eastern;E;Hsi, Turpin;;;106 Belvidere St., Boston, Mass.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;87
+P237;240;Eastern;E;Hsin, Chee-sing;;;39 St. Botolph St., Boston, Mass.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;87
+P238;241;Eastern;E;Hsin, Y. H.;;;33 St. Botolph St., Boston, Mass.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;87
+P241;244;Eastern;E;Hsu, Chaun Yuan;;;112 Magnolia Terrace, Springfield, Mass.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;87
+P243;246;Eastern;E;Hus, Ming Tsai;;;250 W. Newton St., Boston, Mass.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;87
+P244;247;Eastern;E;Hsu, P. H.;;;250 W. Newton St., Boston, Mass.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;87
+P261;264;Eastern;E;Huang, C. S.;Columbia University;Columbia University;Livingston Hall, New York, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;88
+P252;255;Eastern;E;Hu, Heng T.;;;702 W. Broad St., Bethlehem, Pa.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;88
+P253;256;Eastern;E;Hu, K. F.;;;14 Conant Hall, Cambridge, Mass.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;88
+P254;257;Eastern;E;Hu, M. T.;;;127 Linden Ave., Ithaca, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;88
+P255;258;Eastern;E;Hu, Miss Pingsa;;;10 Norumbega, Wellesley, Mass.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;88
+P256;259;Eastern;E;Hu, S.;;;Cosmopolitan Club, Ithaca, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;88
+P258;261;Eastern;E;Hu, S. S.;;;302 Bryant Ave., Ithaca, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;88
+P263;266;Eastern;E;Huang, S. K.;;;Box 66, Bethlehem, Pa.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;88
+P278;281;Eastern;E;Jeme, Mun-chung;;;2153 Florida Ave., N. W., Washington, D. C.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;89
+P279;282;Eastern;E;Jeme, Mun-Kwang;;;2153 Florida Ave., N. W., Washington, D. C.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;89
+P280;283;Eastern;E;Jen, Carl;;;124 Dexter Hall, Worcester, Mass.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;89
+P307;310;Eastern;E;Koo, V. K. W.;Columbia University;Columbia University;713 Hartley Hall, Columbia Univ., New York, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;90
+P294;297;Eastern;E;Kao, Ying;;;2153 Florida Ave., N. W, Washington, D. C.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;90
+P296;299;Eastern;E;Keh, S. S.;;;85 Warren Ave., Boston. Mass.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;90
+P297;300;Eastern;E;Key, Da Yong;;;303 Eddy St., Ithaca, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;90
+P301;304;Eastern;E;King, P. C.;;;218 Delaware Ave., Ithaca, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;90
+P302;305;Eastern;E;King, T.;;;401 Dryden Rd., Ithaca, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;90
+P304;307;Eastern;E;Ko, H. T. S.;;;3521 Germantown Ave., Philadelphia, Pa.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;90
+P312;315;Eastern;E;Kuo, Pingwen;;;501 W. 121st St., New York, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;91
+P317;320;Eastern;E;Kwan, Pao-chun;;;Hillyer Place, Washington, D. C.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;91
+P319;322;Eastern;E;Kwan, T.;;;2017 Hillyer Place, Washington, D. C.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;91
+P336;339;Eastern;E;Lau, Wai-man;Cook Academy;Cook Academy;Montour Falls, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;92
+P332;335;Eastern;E;Lam, Von fong;;;245 W. Newton St., Boston, Mass.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;92
+P335;338;Eastern;E;Lau, Long;;;243 W. Newton St., Boston, Mass.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;92
+P337;340;Eastern;E;Lau, W. W.;;;232 Linden Ave., Ithaca, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;92
+P343;346;Eastern;E;Lay, I. L.;;;754 Franklin Ave., Wilkinsbury, Pa.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;92
+P366;369;Eastern;E;Lee, Kohn Sam;;;239 Linden Ave., Ithaca, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;93
+P372;375;Eastern;E;Lee, Otis S. O.;Columbia University;Columbia University;Hartley Hall, Columbia University, New York, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;94
+P386;389;Eastern;E;Lee, Tsing Lung;Norwich University;Norwich University;Norwich University, Northfield, Vt.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;94
+P377;380;Eastern;E;Lee, R. J.;;;123 Dryden Road, Ithaca, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;94
+P384;387;Eastern;E;Lee, Teh-Tsing;;;223 Linn St., Ithaca, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;94
+P390;393;Eastern;E;Lee, Y. S.;;;241 Linden Ave., Ithaca, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;95
+P391;394;Eastern;E;Lee, Ying-chin;;;6 Eaton Cottage, Andover, Mass.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;95
+P392;395;Eastern;E;Lee, Y. W.;;;277 W. 122nd St., New York, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;95
+P393;396;Eastern;E;Lee, Yade Yee;;;Sumner Rd., Cambridge, Mass.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;95
+P395;398;Eastern;E;Leong, K. Quain;;;1764 V St., Washington, D. C.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;95
+P405;408;Eastern;E;Lew, Munsey S.;;;85 Allen Pl., Hartford, Conn.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;95
+P415;418;Eastern;E;Li, Fei Ing;Syracuse University;Syracuse University;Sims Hall, Syracuse Univ., Syracuse, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;96
+P423;426;Eastern;E;Li, Sheoh Yi;Syracuse University;Syracuse University;Sims Hall, Syracuse, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;96
+P417;420;Eastern;E;Li, King;;;232 Crown St., New Haven, Conn.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;96
+P419;422;Eastern;E;Li, Kuo Chí;;;10 Mellen St., Cambridge, Mass.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;96
+P422;425;Eastern;E;Li, S. C.;;;132 S. Common St., Lynn, Mass.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;96
+P428;431;Eastern;E;Liang, Fook-tso;;;90 Pleasant St., Amherst, Mass.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;96
+P435;438;Eastern;E;Liang, Ying-kwei;Cushing Academy;Cushing Academy;Cushing Acad., Ashburnham, Mass.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;97
+P448;451;Eastern;E;Ling, Frank L.;Syracuse University;Syracuse University;433 Sims Hall, Syracuse, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;97
+P433;436;Eastern;E;Liang, S. Y.;;;164 Dexter Hotel, Worcester, Mass.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;97
+P443;446;Eastern;E;Lin, D. Y.;;;21 Fearing St., Amherst, Mass.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;97
+P445;448;Eastern;E;Lin, L. K.;;;209 College Ave., Ithaca, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;97
+P466;469;Eastern;E;Liu, T. F.;Brown University;Brown University;17 Hope College, Providence, R. I.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;98
+P457;460;Eastern;E;Liu, C. H.;;;10 Sumner Rd. Cambridge, Mass.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;98
+P465;468;Eastern;E;Liu, J. H.;;;21 Wigglesworth St., Boston, Mass.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;98
+P471;474;Eastern;E;Lo, P. S.;;;31 Lincoln Ave., Amherst, Mass.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;99
+P473;476;Eastern;E;Lo, Ren Jen;;;433 Sims Hall, Syracuse, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;99
+P474;477;Eastern;E;Lo, W. P.;;;Sims Hall, Syracuse, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;99
+P475;478;Eastern;E;Lo, Y. C.;;;239 Linden Ave., Ithaca, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;99
+P480;483;Eastern;E;Loh, Y. C.;;;116 Delaware Ave., Ithaca, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;99
+P485;490;Eastern;E;Loo, Ming-ying;;;452 Vine St., Bethlehem, Pa.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;99
+P487;492;Eastern;E;Loo, P. Y.;;;41 Dartmouth St., Springfield, Mass.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;99
+P489;494;Eastern;E;Loo, Wai Gyiao;;;143 Berkeley St., Boston, Mass.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;99
+P507;512;Eastern;E;Mackay, F. W.;Clark University;Clark University;Worcester, Mass.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;100
+P514;519;Eastern;E;Ma, Y. C.;Columbia University;Columbia University;418 Livingston Hall, New York, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;101
+P517;522;Eastern;E;Mei, H. C.;;;457 W. 123rd St., New York, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;101
+P520;525;Eastern;E;Mei, Yi-chi;;;206 West St., Worcester, Mass.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;101
+P544;549;Eastern;E;Nie, Sih-zung;;;422 Sims Hall, Syracuse N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;102
+P558;563;Eastern;E;Ping Chih;Cornell University;Cosmopolitan Club;Cosmopolitan Club House, Ithaca, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;103
+P551;556;Eastern;E;Ou, Hing Char;;;2153 Florida Ave., N. W., Washington, D. C.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;103
+P552;557;Eastern;E;Ou, Nie Chee;;;1764 W St., Washington, D. C.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;103
+P553;558;Eastern;E;Owyang, E. C.;;;73 Whitney Ave., New Haven, Conn.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;103
+P565;570;Eastern;E;Quo, T. C.;;;3729 Spruce Ave., Philadelphia, Pa.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;103
+P574;579;Eastern;E;Sen, Jane-shi T. F.;Columbia University;Columbia University;218 Livingston Hall, New York;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;104
+P569;574;Eastern;E;Seetoo, P. C.;;;79 Montgomery Ave., Boston, Mass.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;104
+P571;576;Eastern;E;Seetoo, Soon;;;226 E. 31st St., New York, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;104
+P579;584;Eastern;E;Shen, H. T.;;;106 St. Botolph St., Boston, Mass.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;104
+P580;585;Eastern;E;Shen, Jeru K.;;;147 Loomis St., Burlington, Vt.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;104
+P581;586;Eastern;E;Shen, M. T.;;;314 College Pl., Ithaca, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;104
+P582;587;Eastern;E;Shen, Nye;;;216 Delaware Ave., Ithaca, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;104
+P606;611;Eastern;E;Sun, Hsueh-Wu;Johns Hopkins University;Johns Hopkins University;Box 547, Baltimore, Md.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;105
+P596;601;Eastern;E;Soong, Aloy, R. I.;Rhode Island State College;State College;Kingston, R. I.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;105
+P602;607;Eastern;E;Sun, Chi-lien;Syracuse University;Syracuse University;224 Sims Hall, Syracuse, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;105
+P600;605;Eastern;E;Sun, Adam H.;;;401 Yale Station, New Haven, Conn.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;105
+P605;610;Eastern;E;Sun, Fayuen;;;11 St. James St., Boston, Mass.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;105
+P610;615;Eastern;E;Sun, M.;Columbia University;Columbia University;513 Hartley Hall, New York, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;106
+P611;616;Eastern;E;Sun, T. T.;Columbia University;Columbia University;922 Hartley Hall, New York, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;106
+P622;627;Eastern;E;Sze, Frank C.;Syracuse University;Syracuse University;Sims Hall, Syracuse, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;106
+P616;621;Eastern;E;Sun, Yufong;Worcester Academy;Worcester Academy;Worcester, Mass.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;106
+P609;614;Eastern;E;Sun, L. C.;;;17 Salem St., Andover, Mass.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;106
+P613;618;Eastern;E;Sun, Yen-fong Ralph;;;81 Barnes St., Providence, R. I.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;106
+P626;631;Eastern;E;Sze, T. Philip;;;2750 14th St., N. W., Washington, D. C.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;106
+P643;648;Eastern;E;Tang, Young-lee;Columbia University;Columbia University;Livingston Hall, New York, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;107
+P630;635;Eastern;E;Tai, Shin Tao;Norwich University;Norwich University;Northfield, Vt.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;107
+P657;662;Eastern;E;Tong, Harry D;Highland Military Academy;Highland Military Academy;Worcester, Mass.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;108
+P679;684;Eastern;E;Tsai, Y. T.;Columbia University;Columbia University;411 Hartley Hall, New York, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;109
+P667;672;Eastern;E;Tong, Yochliang;;;413 Yale Station, New Haven, Conn.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;109
+P675;680;Eastern;E;Tsai, K. P.;;;Fairchild Hall, Prospect St., New Haven, Conn.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;109
+P700;705;Eastern;E;Tsou, Ying-sung;Cook Academy;Cook Academy;Montour Falls, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;110
+P688;693;Eastern;E;Tsao, Y. S.;;;436 Broadway, Cambridge, Mass.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;110
+P690;695;Eastern;E;Tsen, M. K.;;;110 Highland Pl., Ithaca, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;110
+P691;696;Eastern;E;Tseng, Chou Chuan;;;Alumni Hall, Northfield Vt.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;110
+P699;704;Eastern;E;Tsou, Y. H.;;;4 Sarden Ave., Ithaca, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;110
+P705;710;Eastern;E;Tsu, Y. Y.;;;175 9th Ave., and 21st St., New York, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;110
+P720;725;Eastern;E;Wang, C. F.;;;98 Trowbridge St., Cambridge, Mass.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;111
+P724;729;Eastern;E;Wang, Hung-chueh;;;454 Chestnut St., S. Bethlehem, Pa.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;111
+P725;730;Eastern;E;Wang, Ing-tso;;;107 Cook St., Ithaca, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;111
+P743;748;Eastern;E;Wei, Wen Pin;Columbia University;Columbia University;525 Hartley Hall, New York, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;112
+P733;738;Eastern;E;Wang, S. T.;;;107 Cook St., Ithaca, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;112
+P736;741;Eastern;E;Wang, Ting-Fen;;;care Dean Acad., Franklin, Mass.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;112
+P738;743;Eastern;E;Wang, Yu;;;124 Linden Ave., Ithaca, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;112
+P740;745;Eastern;E;Wei, Dzong-Kwen;;;413 Dryden Rd., Ithaca, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;112
+P741;746;Eastern;E;Wei, E. F.;;;401 Dryden Rd., Ithaca, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;112
+P760;765;Eastern;E;Wong, James;Highland Military Academy;Highland Military Academy;Worcester, Mass.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;113
+P746;751;Eastern;E;Wo, S. P.;Worcester Academy;Worcester Academy;Worcester, Mass.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;113
+P751;756;Eastern;E;Wong, C. A.;;;79 Oxford St., Cambridge, Mass.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;113
+P752;757;Eastern;E;Wong, Chin;;;454 Chestnut St., S. Bethlehem, Pa.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;113
+P768;774;Eastern;E;Wong, Parkin;;;Cosmopolitan Club, Ithaca, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;114
+P774;780;Eastern;E;Wong, Thos. Goon;;;16 Oxford St., Boston, Mass.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;114
+P801;806;Eastern;E;Wu, D. F.;Mt. Hermon School;Mt. Hermon School;care Mr. Henry Chow, Mt. Hermon, Mass.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;115
+P795;800;Eastern;E;Woo, Sien-ming;;;249 Hoffman St., Baltimore, Md.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;115
+P814;819;Eastern;E;Wye, T. S.;Columbia University;Columbia University;723 Hartley Hall, New York, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;116
+P811;816;Eastern;E;Wu, Stzejau;;;225 E. 31st St., New York, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;116
+P813;818;Eastern;E;Wu, Yu Lin;;;118 Chandler St., Boston, Mass.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;116
+P819;824;Eastern;E;Yang, P. E.;;;420 W. 119th St., New York, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;116
+P824;829;Eastern;E;Yang, Sih-zung;;;206 West St., Worcester, Mass.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;116
+P828;833;Eastern;E;Yang, Ying Yueh;Columbia University;Columbia University;603 Livingston Hall, New York, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;117
+P836;841;Eastern;E;Yeh, F. T.;;;106 St. Botolph St., Boston, Mass.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;117
+P837;842;Eastern;E;Yeh, T. S.;;;B. 37 Taylor Hall, Bethlehem, Pa.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;117
+P841;846;Eastern;E;Yen, S. C.;;;33 Cottage House, Cambridge, Mass.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;117
+P847;852;Eastern;E;Ying, Y. T.;;;47 St. Botolph St., Boston, Mass.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;118
+P853;858;Eastern;E;Yu, T. M.;;;208 College Pl., Ithaca, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;118
+P854;859;Eastern;E;Yuan, T. K.;;;143 Berkeley St., Boston, Mass.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;118
+P865;870;Eastern;E;Zia, Z. Zungtsoo;Columbia University;Columbia University;803 Hartley Hail, Columbia University, New York, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;119
+P868;873;Eastern;E;Zung, Yien-chung;;;208 College Place, Ithaca, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;119
+P010;11;Midwest;M;Chan, C. Y.;Purdue University;Purdue University;W. Lafayette, Ind.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;75
+P002;2;Midwest;M;Au, Kei-wai;;;610 Forest St., Ann Arbor, Mich.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;75
+P034;35;Midwest;M;Chang, Moshih Y.;;;312 N. Bassett St., Madison, Wis.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;76
+P036;37;Midwest;M;Chang, P. H.;;;500 Packard St., Ann Arbor, Mich.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;76
+P037;38;Midwest;M;Chang, Shan Toong;;;Lowry Hall, Columbia, Mo.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;76
+P039;40;Midwest;M;Chang, Ting Chin;;;109 W. 11th Ave., Columbus, O.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;76
+P041;42;Midwest;M;Chang, V. C.;;;703 W. Illinois St., Urbana, Ill.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;76
+P043;44;Midwest;M;Chang, Y. L.;;;609 W. Johnson St., Madison, Wis.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;76
+P014;15;Midwest;M;Chan, Hoy;;;P. O. Box 60, East Lansing, Mich.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;77
+P022;23;Midwest;M;Chan, Tingit H.;;;136 E. 11th Ave., Columbus, O.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;77
+P033;34;Midwest;M;Chang, L. C.;;;441 Lake St., Madison, Wis.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;77
+P058;59;Midwest;M;Chen, G. S. O.;;;600 William St., Ann Arbor, Mich.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;78
+P060;61;Midwest;M;Chen, Huang;;;1304 Clark St., Urbana, Ill.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;78
+P062;63;Midwest;M;Chen, K. Y.;;;703 W. Illinois St., Urbana, Ill.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;78
+P066;67;Midwest;M;Chen, Phook;;;87 Lane Ave., Columbus, O.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;78
+P075;76;Midwest;M;Chen, Wei-ping;;;425 S. Division St., Ann Arbor, Mich.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;79
+P077;78;Midwest;M;Chen, Y;;;637 S. Thayer St., Ann Arbor, Mich.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;79
+P078;79;Midwest;M;Chen, Y. F.;;;Box 686, Golden, Colo.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;79
+P085;86;Midwest;M;Cheng, Gung-yi;;;715 Church St., Ann Arbor, Mich.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;79
+P112;114;Midwest;M;Chiu, C. Q.;Purdue University;Purdue University;W. LaFayette, Ind.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;80
+P095;96;Midwest;M;Chien, S. S.;;;University Station, Box 97, Urbana, Ill.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;80
+P107;109;Midwest;M;Chin, Wah;;;1557 Hunter Ave., Columbus, O.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;80
+P113;115;Midwest;M;Chiu, C. Y.;;;26 Waldron St., W. Lafayette, Ind.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;81
+P869;130a;Midwest;M;Chow, S. A.;;;P. O. Box 729, East Lansing, Mich.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;81
+P134;136;Midwest;M;Chu, C. C.;;;313 N. Mills St., Madison, Wis.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;82
+P135;137;Midwest;M;Chu, C. C.;;;712 Nevada St., Urbana, Ill.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;82
+P138;140;Midwest;M;Chu, Chin;;;617 State St., Madison, Wis.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;82
+P147;149;Midwest;M;Chu, V. C.;;;1002 6th St., Champaign, Ill.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;82
+P152;154;Midwest;M;Chuang, T.;;;1301 Stoughton St., Urbana, Ill.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;83
+P159;161;Midwest;M;Chun, Tien-che;;;1122 Washtenaw St., Ann Arbor, Mich.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;83
+P172;174;Midwest;M;Cornish, Miss E.;;;30 E. Lorain St., Oberlin, O.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;84
+P193;195;Midwest;M;Fei, H.J.;Oberlin College;Oberlin College;237 Oak St., Oberlin, O.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;85
+P195;197;Midwest;M;Fok, Im-chueng,;;;920 Monroe St., Ann Arbor, Mich.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;85
+P200;202;Midwest;M;Fong, K.P.;;;1045 Pennsylvania Ave., Boulder, Colo.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;85
+P201;203;Midwest;M;Foo, C.T.;;;26 Beresford Ave., Detroit, Mich.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;85
+P205;207;Midwest;M;Franking, T.H.;;;338 E. Catherine St., Ann Arbor, Mich.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;85
+P207;209;Midwest;M;Fu, Chung-chio,;;;533 E. University Ave., Ann Arbor, Mich.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;85
+P209;211;Midwest;M;Fu, P.K.;;;P. O. Box 409, East Lansing, Mich.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;85
+P216;218;Midwest;M;Han, N.;;;228 N. Mills, St., Madison, Wis.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;86
+P218;220;Midwest;M;Ho, Chieh;;;P. O. Box 725, Golden, Colo.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;86
+P220;223;Midwest;M;Ho, E. M.;;;5707 Madison Ave., Chicago, Ill.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;86
+P222;225;Midwest;M;Ho, K. T.;;;617 State St., Madison, Wis.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;86
+P226;229;Midwest;M;Ho, Saulinn;;;Lowry Hall, Columbia, Mo.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;86
+P239;242;Midwest;M;Hsu, C.;;;1012 W. Oregon St., Urbana, Ill.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;87
+P242;245;Midwest;M;Hsu, C. S.;;;701 W. Illinois St., Urbana, Ill.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;87
+P245;248;Midwest;M;Hsu, T. H.;;;703 W. Illinois St., Urbana, Ill.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;87
+P249;252;Midwest;M;Hsueh, C. C.;;;Florence Hall, Greencastle, Ind.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;87
+P250;253;Midwest;M;Hsueh, C. P.;;;1203 Springfield Ave., Urbana, Ill.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;87
+P287;290;Midwest;M;Jue, Quon C.;;;911 Locust St., Columbia, Mo.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;89
+P292;295;Midwest;M;Kao, L. K.;;;1109 E. University Ave., Ann Arbor, Mich.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;90
+P874;298b;Midwest;M;Kee, S. H.;;;313 14th St., Ann Arbor, Mich.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;90
+P309;312;Midwest;M;Ku, Chen-miu;;;605 S. Thayer St., Ann Arbor, Mich.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;91
+P311;314;Midwest;M;Kuan, C. L.;;;610 Forest St., Ann Arbor, Mich.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;91
+P314;317;Midwest;M;Kuo, S. S.;;;1112 W. Johnson St., Madison, Wis.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;91
+P339;342;Midwest;M;Law, G. G.;;;136 E. 11th Ave., Colum-bus, O.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;92
+P364;367;Midwest;M;Lee, J. Y.;;;5518 Madison Ave. Chicago, Ill.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;93
+P380;383;Midwest;M;Lee, Soong-dau;;;312 N. Bassett St., Madison, Wis.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;94
+P401;404;Midwest;M;Leon, L. K.;;;174 Chittenden Ave., Columbus, O.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;95
+P421;424;Midwest;M;Li, M. H.;;;403 N. Murray St., Madison, Wis.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;96
+P439;442;Midwest;M;Lim, Wee Kim;Capital University;Capital University;Capital Univ., Columbus, O.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;97
+P430;433;Midwest;M;Liang, Hsun-ying;;;1002 California St., Urbana, Ill.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;97
+P441;444;Midwest;M;Lim, Yuwen;;;5518 Madison Ave., Chicago, Ill.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;97
+P446;449;Midwest;M;Lin, T. K.;;;703 W. Illinois St., Urbana, Ill.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;97
+P451;454;Midwest;M;Ling, Pyau;;;609 W. Johnson St., Madison, Wis.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;98
+P472;475;Midwest;M;Lo, P. Y.;;;110 N. Ingalls St., Ann Arbor, Mich.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;99
+P477;480;Midwest;M;Loh, P. K.;;;1012 W. Oregon St., Urbana, Ill.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;99
+P494;499;Midwest;M;Lowe, Ming S.;;;P. O. Box 875, East Lansing, Mich.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;100
+P511;516;Midwest;M;Ma, Ming-hai;;;915 W. Johnson St., Madison, Wis.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;101
+P513;518;Midwest;M;Maw, Vung-tsoong;;;1109 E. University Ave., Ann Arbor, Mich.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;101
+P522;527;Midwest;M;Moh, H. Y.;;;1103 W. Oregon St., Urbana, Ill.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;101
+P539;544;Midwest;M;Nee, Wen-chin;;;P. O. Box 852, East Lansing, Mich.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;102
+P546;551;Midwest;M;Nip, Fugar;;;5518 Madison Ave., Chicago, Ill.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;102
+P550;555;Midwest;M;Ou, H. C.;;;703 W. Illinois St., Urbana, Ill.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;103
+P556;561;Midwest;M;Pan, C. C.;;;313 N. Mills St., Madison, Wis.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;103
+P573;578;Midwest;M;Seto, T.;;;917 E Huron St., Ann Arbor, Mich.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;104
+P584;589;Midwest;M;Shen, Tsu-way;;;1122 Washtenaw Ave., Ann Arbor, Mich.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;104
+P587;592;Midwest;M;Shum, Nim-chi;;;217 Brook St., Madison, Wis.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;105
+P588;593;Midwest;M;Shu, S. J.;;;617 State St., Madison, Wis.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;105
+P618;623;Midwest;M;Suvoong, Miss M. T.;;;King Hall, Granville, O.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;106
+P619;624;Midwest;M;Sy, E. S.;;;214 S. Ingalls St., Ann Arbor, Mich.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;106
+P620;625;Midwest;M;Sycip, A. Z.;;;215 S. Thayer St., Ann Arbor, Mich.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;106
+P631;636;Midwest;M;Tam, Tsong-ying;;;605 S. Thayer St., Ann Arbor, Mich.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;107
+P633;638;Midwest;M;Tan, Chang-lok;;;5518 Madison Ave., Chicago, Ill.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;107
+P636;641;Midwest;M;Tang, Hung-yee;;;718 Monroe St., Ann Arbor, Mich.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;107
+P640;645;Midwest;M;Tang, S.;;;1109 E. University Ave., Ann Arbor, Mich.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;107
+P642;647;Midwest;M;Tang, T. Y.;;;205 S. Park St., Madison, Wis.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;107
+P658;663;Midwest;M;Tong, H. K.;;;115 S. 6th St., Columbia, Mo.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;108
+P660;665;Midwest;M;Tong, K. C.;;;174 Chittenden Ave., Columbus, O.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;108
+P684;689;Midwest;M;Tsao, Miss L. Y.;Mary Thompson Hospital;Mary Thompson Hospital;Adams & Paulina Sts., Chicago, Ill.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;109
+P669;674;Midwest;M;Tong, Yung-tso;;;1203 Springfield Ave., Urbana, Ill.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;109
+P682;687;Midwest;M;Tsao, C. K.;;;1209 S. University Ave., Ann Arbor, Mich.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;109
+P687;692;Midwest;M;Tsao, M. C.;;;1304 Clark St., Urbana, Ill.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;110
+P692;697;Midwest;M;Tseng, Yu-mei;;;1112 W. Johnson St., Madison, Wis.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;110
+P694;699;Midwest;M;Tseo, Miss P. Y.;;;1824 Geddes Ave., Ann Arbor, Mich.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;110
+P704;709;Midwest;M;Tsu, W. S.;;;813 Johnson St., Madison, Wis.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;110
+P722;727;Midwest;M;Wang, C. P.;;;213 N. Thayer St., Ann Arbor, Mich.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;111
+P739;744;Midwest;M;Waung, Song-he;;;533 E. University Ave., Ann Arbor, Mich.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;112
+P758;763;Midwest;M;Wong, Hin;Bible College;Bible College;Columbia, Mo.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;113
+P761;767;Midwest;M;Wong, John;;;617 State St., Madison, Wis.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;113
+P770;776;Midwest;M;Wong, Perry C.;;;1217 Willard St., Ann Arbor, Mich.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;114
+P778;784;Midwest;M;Wong, W. F.;;;908 W. Green St., Urbana, Ill.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;114
+P781;787;Midwest;M;Wong, Yick K.;;;603 Elm St., Columbia, Mo.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;114
+P785;790;Midwest;M;Woo, Chang;;;205 S. Park St., Madison, Wis.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;114
+P788;793;Midwest;M;Woo, John Y. T.;Barnes Medical College;Barnes Medical College;St. Louis, Mo.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;115
+P786;791;Midwest;M;Woo, Chee Mun;;;170 W. 4th Ave., Columbus, O.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;115
+P789;794;Midwest;M;Woo, K. S.;;;1125 Bowen Court, Madison, Wis.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;115
+P790;795;Midwest;M;Wu, K. Y.;;;920 Monroe St., Ann Arbor, Mich.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;115
+P796;801;Midwest;M;Woo, T. T.;;;1304 Clark St., Urbana, Ill.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;115
+P797;802;Midwest;M;Woo, W. S.;;;1012 W. Oregon St., Urbana, Ill.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;115
+P800;805;Midwest;M;Wu, C. K.;;;703 W. Illinois St., Urbana, Ill.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;115
+P809;814;Midwest;M;Wu, Pond S.;;;Box 55, W. Lafayette, Ind.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;116
+P829;834;Midwest;M;Yang, Yung-yen;;;926 W. Illinois St., Urbana, Ill.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;117
+P839;844;Midwest;M;Yen, C. C.;;;1014 California St., Urbana, Ill.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;117
+P843;848;Midwest;M;Yim, B. J.;;;1304 Clark St., Urbana, Ill.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;117
+P862;867;Midwest;M;Zee, Z. T.;University of Chicago;University of Chicago;30 Snell Hall, U. of C., Chicago, Ill.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;118
+P850;855;Midwest;M;Young, J. L.;;;5707 Madison Ave., Chicago, Ill.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;118
+P852;857;Midwest;M;Yu, L.;;;701 Langdon St., Madison, Wis.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;118
+P858;863;Midwest;M;Yung, S. Y.;;;204 S. Ingalls St., Ann Arbor, Mich.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;118
+P860;865;Midwest;M;Zee, Teshiue Zohn;;;1307 Stoughton St., Urbana, Ill.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;118
+P861;866;Midwest;M;Zee, Ts-zun Z.;;;617 State St., Madison, Wis.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;118
+P005;5;Western;W;Bow, George;;;2407 Fulton St., Berkeley, Cal.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;75
+P011;12;Western;W;Chan, Miss Bertie G.;;;226½ Morrison St., Portland, Ore.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;75
+P012;13;Western;W;Chan, Miss Frances I.;;;226½ Morrison St., Portland, Ore.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;75
+P013;14;Western;W;Chan, Gumduodd;;;1904 Shattuck Ave., Berkeley, Cal.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;77
+P015;16;Western;W;Chan, Miss, Ida E.;;;226½ Morrison Ave., Portland, Ore.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;77
+P099;100;Western;W;Ching, Hong-yen;;;2407 Fulton St., Berkeley, Cal.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;80
+P100;101;Western;W;Ching, Wa Chan;;;2504 Regent St., Berkeley, Cal.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;80
+P111;113;Western;W;Chiu, Chungyen;;;2407 Fulton St., Berkeley, Cal.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;80
+P117;119;Western;W;Chiu, Yan-Tsz;;;2504 Regent St., Berkeley, Cal.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;81
+P142;144;Western;W;Chu, Neu Chan;;;2504 Regent St., Berkeley, Cal.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;82
+P177;179;Western;W;Dang, Y. T.;;;1917 Addison St., Berkeley, Cal.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;84
+P198;200;Western;W;Fong, GooeyY.;;;2407 Fulton Ave., Berkeley, Cal.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;85
+P214;216;Western;W;Hall, Benj.;;;917 Clay St., San Francisco, Cal.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;86
+P215;217;Western;W;Hall, Givon;;;1045 G. St., Fresno, Cal.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;86
+P217;219;Western;W;Haw, Harry;;;957 Grant Ave., San Francisco, Cal.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;86
+P277;280;Western;W;Jee, Shin-quong;;;2213 Bancroft way, Berkeley, Cal.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;89
+P330;333;Western;W;Lai, William;;;674 King St., Seattle, Wash.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;92
+P367;370;Western;W;Lee, K. C.;;;1519 Tuare St., Fresno, Cal.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;93
+P379;382;Western;W;Lee, S. L.;;;2247 Dwight Way, Berke-ley, Cal.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;94
+P385;388;Western;W;Lee, Thomas W.;;;838 F St., Fresno, Cal.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;94
+P387;390;Western;W;Lee, Wah Seyle;;;318 Emerson St., Palo Alto, Cal.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;94
+P388;391;Western;W;Lee, W. C.;;;841 F St., Fresno, Cal.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;94
+P879;NA;Western;W;Lee, V. K.;University of Illinois;University of Illinois;707 S. Wright St., Champaign, Ill.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;95
+P409;412;Western;W;Lew, Wing S.;;;838 F St., Fresno, Cal.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;96
+P431;434;Western;W;Liang, Hugh K.;;;243 Prospect Palce, San Francisco, Cal.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;97
+P458;461;Western;W;Liu, Chieman A.;;;2630 Durant Ave., Berkeley, Cal.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;98
+P492;497;Western;W;Lowe, Frank;;;1917 Addison St., Berkeley, Cal.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;100
+P493;498;Western;W;Lowe, Montai;;;103 E. Adams Ave., Detroit, Mich.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;100
+P542;547;Western;W;Ng, Daniel Ping;Divinity School;Divinity School;San Mateo, Cal.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;102
+P533;538;Western;W;Moy, O. Hymn;;;916 Grant Ave., San Francisco, Cal.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;102
+P534;539;Western;W;Moy, William B.;;;668 King St., Seattle, Wash.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;102
+P538;543;Western;W;Nam, Ong Yet;;;318 Emerson St., Palo Alto, Cal.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;102
+P559;564;Western;W;Pond, Ben L.;;;1523 Tulare St., Fresno, Cal.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;103
+P560;565;Western;W;Pond, Lee W.;;;1519 Tulare St., Fresno, Cal.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;103
+P563;568;Western;W;Pung, Wm. Sing Chong;;;318 Emerson St., Palo Alto, Cal.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;103
+P578;583;Western;W;Shen, Chick Tszeying;;;1904 Shattuck Ave., Berkeley, Cal.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;104
+P608;613;Western;W;Sun, R.;;;204½ 5th Ave., Seattle, Wash.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;106
+P614;619;Western;W;Sun, Y. L.;;;Sheboygan, Wis.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;106
+P654;659;Western;W;Tom, Y. S.;;;838 F St., Fresno, Cal.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;108
+P662;667;Western;W;Tong, M. S.;;;317 Clark St., Chicago, Ill.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;108
+P698;703;Western;W;Tsoo, Chantzion;;;2407 Fulton St., Berkeley, Cal.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;110
+P754;759;Western;W;Wong, Footson;;;2504 Regent St., Berkeley, Cal.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;113
+P008;8;;†;Chalbin, G. G.;;;837 Harrison St. Oakland, Cal.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;75
+P053;54;;†;Chee, W. N.;;;Mt. Hermon, Mass.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;76
+P030;31;;†;Chang, G. K.;Bethlehem Preparatory School;Bethlehem Preparatory School;Bethlehem, Pa.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;77
+P019;20;;†;Chan, M. C.;;;P. O. Box 163, Ashburnham, Mass.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;77
+P021;22;;†;Chan, S. N.;;;Snell St., Amherst, Mass.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;77
+P061;62;;†;Chen, J. H.;Columbia University;Columbia University;404 Hartley Hall, New York, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;78
+P073;74;;†;Chen, Tsai-hsin;Columbia University;Columbia University;716 Hartley Hall, New York, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;78
+P086;87;;†;Cheng, H. Y.;;;137 Hubbell Ave., Houghton, Mich.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;79
+P102;103;;†;Chin, K. Y.;;;603 S. Lincoln Ave., Urbana, Ill.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;80
+P108;110;;†;Chin, Yushu;;;617 State St., Madison, Wis.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;80
+P114;116;;†;Chiu, G. L.;;;Caruthers Hall, Lebanon, Tenn.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;81
+P148;150;;†;Chu, W. C.;Tilton Seminary;Tilton Seminary;Tilton, N. H.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;82
+P166;168;;†;Chung, C. U.;Simpson College;Simpson College;Indianola, Iowa;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;83
+P156;158;;†;Chun, Ki;;;31 Lincoln Ave., Amherst, Mass.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;83
+P185;187;;†;Dong, Lem S.;;;201 8th St., Troy, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;84
+P210;212;;†;Fung, H.K.;;;125 Quarry St., Ithaca, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;85
+P224;227;;†;Ho, L. Y.;University of Pennsylvania;University of Pennsylvania;Philadelphia, Pa.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;86
+P229;232;;†;Hong, M. S.;;;2334 W. Madison St., Chicago, Ill.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;86
+P236;239;;†;Hsieh, E. L.;;;202 College Place, Ithaca, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;87
+P240;243;;†;Hsu, C. F.;;;3608 Locust St., Philadelphia, Pa.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;87
+P260;263;;†;Huang, C. H.;Columbia University;Columbia University;704 Livingston Hall, New York, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;88
+P266;269;;†;Huie, I. Y. A.;;;223 E. 31st St., New York, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;88
+P281;284;;†;Jewell, Miss Grace;Northfield Seminary;Northfield Seminary;E. Northfield, Mass.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;89
+P272;275;;†;Ing, T. E.;University of Pennsylvania;University of Pennsylvania;142 Lippincott Dorm., Philadelphia, Pa.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;89
+P273;276;;†;Ing, Z. T.;;;Quinby St., Wooster, O.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;89
+P315;318;;†;Kuo, Tuar-shin;;;1112 W. Johnson St., Madison, Wis.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;91
+P318;321;;†;Kwan, S. S.;;;3 Churchill House Phillips Acad., Andover, Mass.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;91
+P322;325;;†;Kwauk, K. S.;;;309 Lake St., Madison, Wis.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;91
+P323;326;;†;Kwauk, Sen-zung;;;214 Dryden Road, Ithaca. N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;91
+P324;327;;†;Kway, Zung-ziang;;;27 Brown Hall, Princeton, N. J.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;91
+P326;329;;†;Kwong, L. C.;;;Kwong, Hsu-kun, Princeton, N. J.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;91
+P333;336;;†;Lane, K. T.;;;6026 Monroe Ave., Boston, Mass.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;92
+P345;348;;†;Lea, Edgar;;;Philadelphia, Pa.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;92
+P348;351;;†;Lee, Ben Y.;;;Y. M. C. A., Valparaiso, Ind.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;92
+P358;361;;†;Lee, H. K.;Mt. Hermon School;Mt. Hermon School;Mt. Hermon School, Mt. Hermon, Mass.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;93
+P368;371;;†;Lee, L. C.;;;1118 Walnut St., Philadelphia, Pa.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;93
+P459;462;;†;Liu, C. Y.;Columbia University;Columbia University;823 Hartley Hall, New York, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;98
+P455;458;;†;Linn, T. T.;University of Pennsylvania;University of Pennsylvania;32 Graduate Dorm, Philadelphia, P.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;98
+P454;457;;†;Linn, C. S.;;;100 Randolph St., Chicago, Ill.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;98
+P462;465;;†;Liu, F. H.;;;West Bloomington, Wooster, O.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;98
+P464;467;;†;Liu, H. C.;;;401 Dryden Rd., Ithaca, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;98
+P467;470;;†;Liu, Zoong Doen;;;201 Williams St., Ithaca, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;98
+P468;471;;†;Lo, C. C.;;;123 Dryden Rd., Ithaca, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;98
+P469;472;;†;Lo, K. T.;;;187 8th St., Troy, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;98
+P470;473;;†;Lo, H. P.;University of Chicago;University of Chicago;34 Hitchcock Hall, Chicago, Ill.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;99
+P488;493;;†;Loo, Sax;;;123 M. Auburn St., Cambridge, Mass.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;99
+P500;505;;†;Luke, T. C.;Phillips Academy;Phillips Academy;3 Woods House, Andover, Mass.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;100
+P501;506;;†;Luk, W. K.;;;Urbana, Ill.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;100
+P505;510;;†;Ly, Y. S.;;;203 5th Ave., New York, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;100
+P512;517;;†;Ma, T. S.;Columbia University;Columbia University;Hartley Hall, New York, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;101
+P510;515;;†;Mark, Wm. H.;;;910 Main St., Paterson, N. J.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;101
+P526;531;;†;Moy, B. T.;;;1213 62nd St., Chicago, Ill.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;101
+P549;554;;†;Ong, Y. Nam;;;1621 Grove St., Berkeley, Cal.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;103
+P554;559;;†;Owyang, Y. C.;;;45 Oxford St., Cambridge, Mass.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;103
+P562;567;;†;Pow, M. S.;;;100 Randolph St., Chicago, Ill.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;103
+P567;572;;†;Seetoo, C. H.;;;Box 14, Kingston, Pa.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;103
+P570;575;;†;Seetoo, S. H.;;;15 State St., Annapolis, Ind.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;104
+P615;620;;†;Sung, Y. S.;;;Quinby Ave., Wooster, O.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;106
+P623;628;;†;Sze, D. O.;;;3931 Baltimore Ave., Philadelphia, Pa.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;106
+P624;629;;†;Sze, L. C.;;;1028 Pine St., Philadelphia, Pa.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;106
+P628;633;;†;Sze, Y. A.;Lafayette College;Lafayette College;Easton, Pa.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;107
+P644;649;;†;Tao, Daqueen;;;183 W. 9th St., Columbus, O.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;107
+P666;671;;†;Tong, Y. H.;Narwick University;Narwick University;Northfield, Mass.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;108
+P652;657;;†;Tom, K. L.;;;564 Massachusetts Ave., Boston, Mass.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;108
+P663;668;;†;Tong, P. W.;;;251 Atwater Rd., Springfield, Mass.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;108
+P680;685;;†;Tsang, K. S.;University of Pennsylvania;University of Pennsylvania;41 Birthday, Dorm., Philadelphia, Pa.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;109
+P678;683;;†;Tsai, S. Y.;;;423 Wisconsin Ave., Madison, Wis.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;109
+P686;691;;†;Tsao, Miss W. I.;;;1600 Scott Circle, Washington, D. C.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;110
+P708;713;;†;Tu, T. W.;;;6023 Ellis Ave., Chicago, Ill.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;111
+P728;733;;†;Wang, P.;;;302 College Ave., Ithaca, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;112
+P731;736;;†;Wang, S. J.;;;28 Mellen St., Cambridge, Mass.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;112
+P757;762;;†;Wong, Hay K.;;;915 Webster St., Oakland, Cal.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;113
+P764;770;;†;Wong, Ko-un;;;631 Langdon St., Madison, Wis.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;113
+P769;775;;†;Wong, Pausung;University of Pennsylvania;University of Pennsylvania;41 Bodine, Dorm, Philadelphia, Pa.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;114
+P782;788;;†;Wong, Y. S.;;;48 Thurston Ave., Ithaca, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;114
+P787;792;;†;Woo, F. Y.;;;117 E. Main St., Madison, Wiss.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;115
+P793;798;;†;Woo, N. T.;;;307 E. Gorham St., Madison, Wis.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;115
+P807;812;;†;Wu, N. C.;;;125 8th St., Troy, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;116
+P818;823;;†;Yang, N. C.;;;3812 Locust St., Philadelphia, Pa.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;116
+P832;837;;†;Yee, B. D.;;;87 Wadden St. New Bedford, Mass.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;117
+P849;854;;†;Young, E. B.;Grace Hospital;Grace Hospital;care Grace Hospital, Detroit, Mich.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;118
+P857;862;;†;Yung, B.;Peekskill Military Academy;Peekskill Military Academy;Peekskill, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;118
+P859;864;;†;Yung, Yuen-fong;;;7 Mott St., New York, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;118
+P863;868;;†;Zhen, J. T.;;;Box 78, Univ. Sta., Urbana, Ill.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;118
+P867;872;;†;Zung, M. U.;Millaps College;Millaps College;Millaps College, Jackson, Miss.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;119
+P196;198;;;Fong, C.Y.;University of Chicago;University of Chicago;5700 Jackson Ave., Chicago, Ill.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;85
+P202;204;;;Foo, H.S.;;;Chinese Legation, Washington, D. C.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;85
+P371;374;;;Lee, Miss Nyiu-tsung;La Grange College;La Grange College;La Grange Col-lege, Georgia.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;94
+P382;385;;;Lee, W. S.;;;503 Wabash Ave., Craw-fordville, Ind.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;94
+P406;409;;;Lew, S. B.;Virginia Christian College;Virginia Christian College;Virginia Christian College, Lynchburg, Va.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;95
+P880;NA;;;Lee, Victor C.;;;2030 Chestnut St., Philadelphia, Pa.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;95
+P414;417;;;Li, Chien-luan;;;501 W. 121st St., New York, N. Y.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;96
+P429;432;;;Liang, H. L.;;;903 S. Olive St., Los Angeles, Cal.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;97
+P436;439;;;Liang, Yu-cho;;;22 N. Prospect St., Amherst, Mass.;Yes;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;97
+P038;39;Eastern;E;Chang, Tien Yuen;Pennsylvania State College;Pennsylvania State College;Pennsylvania, Pa.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;76
+P017;18;Eastern;E;Chan, K. C.;;;Ashburnham, Mass.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;77
+P028;29;Eastern;E;Chang, F.;;;48 Trowbridge St., Cambridge, Mass.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;77
+P055;56;Eastern;E;Chen, C. H.;;;419 W. 118th St., New York, N. Y.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;78
+P069;70;Eastern;E;Chen, S. T.;;;1640 Cambridge St., Cambridge, Mass.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;78
+P082;83;Eastern;E;Cheng, C. T.;;;225 E. 31st St., New York, N. Y.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;79
+P091;92;Eastern;E;Chiao, Chong Hai;;;2901 10th St., N. W., Washington, D. C.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;79
+P638;643;Eastern;E;Tang, Man Hoi;Haverford College;Haverford College;Haverford, Pa.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;107
+P629;634;Eastern;E;Sz-to, S. I.;;;232 Linden Ave., Ithaca, N.Y.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;107
+P637;642;Eastern;E;Tang, J. F.;;;City Y. M. C. A., Syracuse, N. Y.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;107
+P645;650;Eastern;E;Tao, Shumon;;;255 E. 318th St., New York, N. Y.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;107
+P647;652;Eastern;E;Thom, Hong;;;144 Winthrop St., Brooklyn, N. Y.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;107
+P648;653;Eastern;E;Thom, H. Y.;Stevens School;Stevens School;Hoboken, N. J.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;108
+P649;654;Eastern;E;Thom, Miss Low;;;144 Winthrop St., Brooklyn, N. Y.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;108
+P650;655;Eastern;E;Thom, Miss Oy Ngan;;;70 Bayard St., New York, N. Y.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;108
+P665;670;Eastern;E;Tong, W. S.;;;302 Bryant St., Ithaca, N. Y.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;108
+P875;667a;Eastern;E;Tong, Pao Tung;;;127 Newberry St., Boston, Mass.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;108
+P676;681;Eastern;E;Tsai, M. C.;Washington and Jefferson University;Washington and Jefferson Academy;Washington, Pa.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;109
+P668;673;Eastern;E;Tong, Yung Towe;;;144 Washington Rd., Springfield, Mass.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;109
+P689;694;Eastern;E;Tsen, Archie Tsung Liang;Columbia University;Columbia University;918 Hartley Hall, N. Y.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;110
+P718;723;Eastern;E;Wang, Chun Hao;Columbia University;Columbia University;408 Hartley Hall, New York, N. Y.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;111
+P721;726;Eastern;E;Wang, C. F.;Columbia University;Columbia University;408 Hartley Hall, New York, N. Y.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;111
+P711;716;Eastern;E;Un, Yee Hong;Cushing Academy;Cushing Academy;Ashburnham, Mass.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;111
+P712;717;Eastern;E;Un, Ye, Shun;Cushing Academy;Cushing Academy;Ashburnham, Mass.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;111
+P713;718;Eastern;E;Van, Yung Tsun;;;140 Huntington Ave., Boston, Mas.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;111
+P715;720;Eastern;E;Wang, Chau;;;120 Huntington Ave., Boston, Mass.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;111
+P716;721;Eastern;E;Wang, Miss Chi Che;;;7 Wilder, Wellesley, Mass.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;111
+P737;742;Eastern;E;Wang, Y. Tsen Shan;Columbia University;Columbia University;Hartley Hall, New York, N. Y.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;112
+P727;732;Eastern;E;Wang, Lingoh;University of North Carolina;University of North Carolina;Chapel Hill, N. C.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;112
+P735;740;Eastern;E;Wang, T.;;;126 Linden Ave., Ithaca, N. Y.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;112
+P763;769;Eastern;E;Wong, K. M.;Columbia University;Columbia University;Hartley Hall, New York, N. Y.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;113
+P759;764;Eastern;E;Wong, H. K.;Stevens School;Stevens School;Hoboken, N. J.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;113
+P756;761;Eastern;E;Wong, Harold E.;;;Cazenovia, N. Y.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;113
+P780;786;Eastern;E;Wong, Yee Tsing;University of Georgia;University of Georgia;Athens, Ga.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;114
+P794;799;Eastern;E;Woo, Peter D.;Vanderbilt University;Vanderbilt University;Nashville, Tenn.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;115
+P798;803;Eastern;E;Wu, Cho Chee;;;2001 19th St., N. W., Washington D. C.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;115
+P799;804;Eastern;E;Wu, Cho Shun;;;2001 19th St., N. W., Washington D. C.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;115
+P802;807;Eastern;E;Wu, Mrs. D. Y.;;;302 Park St., N.W., Washington O. C.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;115
+P817;822;Eastern;E;Yang, Miss Flora;Chevy Chase Seminary;Chevy Chase Seminary;Chevy Chase, Md.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;116
+P815;820;Eastern;E;Yang, C.;Columbia University;Columbia University;819 Hartley Hall, New York, N. Y.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;116
+P812;817;Eastern;E;Wu, Yoch-ngoo;La Grange College;La Grange College;La Grange, Ga.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;116
+P810;815;Eastern;E;Woo, Sheck Band;Tilton Seminary;Tilton Seminary;Tilton, N. H.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;116
+P806;811;Eastern;E;Wu, N.;;;413 Broadway, Cambridge, Mass.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;116
+P820;825;Eastern;E;Yang, Mrs. P. E.;;;420 W. 119th St., New York, N. Y.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;116
+P823;828;Eastern;E;Yang, Shu Zeh;;;303 Eddy St., Ithaca, N. Y.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;116
+P826;831;Eastern;E;Yang, Y. C.;Cushing Academy;Cushing Academy;Ashburnham, Mass.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;117
+P833;838;Eastern;E;Yee, Hong Sheung;Cushing Academy;Cushing Academy;Ashburnham, Mas.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;117
+P834;839;Eastern;E;Yee, Kee;Cushing Academy;Cushing Academy;Ashburnham, Mass.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;117
+P835;840;Eastern;E;Yee, Vick;Cushing Academy;Cushing Academy;Ashburnham, Mass.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;117
+P855;860;Eastern;E;Yuen, T.;;;106 St. Botolph St., Boston, Mass.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;118
+P856;861;Eastern;E;Yung, A. F.;;;225 E. 31st St., New York, N. Y.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;118
+P864;869;Eastern;E;Zhen, Min Shou;;;74 Huntington Ave., Boston, Mass.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;118
+P006;6;Eastern;E;Carleton Miss May;Goucher College;Goucher College;Baltimore, Md.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;75
+P097;98;Eastern;E;Chin, Dock Gun;Cushing Academy;Cushing Academy;Ashburnham, Mass.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;80
+P103;104;Eastern;E;Chin, Leng;Cushing Academy;Cushing Academy;Ashburnham, Mass.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;80
+P106;107;Eastern;E;Chin, On;Cushing Academy;Cushing Academy;Ashburnham, Mass.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;80
+P093;94;Eastern;E;Chien, H. T.;;;416 W. 118th St., New York, N. Y.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;80
+P096;97;Eastern;E;Chien, Y. C.;;;112 Sanford St., Bangor, Me.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;80
+P098;99;Eastern;E;Chin, Foy;;;Box 669, Mt. Vernon, Mass.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;80
+P101;102;Eastern;E;Chin, Hong Boo;;;25 Pell St., New York, N. Y.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;80
+P115;117;Eastern;E;Chiun, Shew Niun;;;341 Davis Hall, Worcester, Mass.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;81
+P116;118;Eastern;E;Chiu, Wei Yung;;;218 Delaware Ave., Ithaca, N. Y.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;81
+P128;130;Eastern;E;Chow, Ming;;;106 Belvidere St., Boston, Mass.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;81
+P132;134;Eastern;E;Chow, Yen Shuon;;;Beech St., Holyoke, Mass.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;82
+P137;139;Eastern;E;Chu, Chi Che;;;127 Newberry St., Boston, Mass.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;82
+P143;145;Eastern;E;Chu, Shue Young;;;53 Bayard St., New York, N. Y.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;82
+P145;147;Eastern;E;Chu, Tsu Shun;;;120 Huntington Ave., Boston, Mass.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;82
+P154;156;Eastern;E;Chui, Liang;Columbia University;Columbia University;124 Livingston Hall, New York, N. Y.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;83
+P162;164;Eastern;E;Chun, Y. Chan;Columbia University;Columbia University;516 Hartley Hall, New York, N. Y.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;83
+P171;173;Eastern;E;Chyun, Miss Evelyn;Missionary Institute;Missionary Institute;Nyack, N. Y.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;83
+P190;192;Eastern;E;Fay, Shiang-fuan;Brown University;Brown University;17 Hope College, Providence, R. I.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;84
+P174;176;Eastern;E;Dage, Z. C.;;;P. H. Hsu, 250 W. Newton St., Boston, Mass.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;84
+P182;184;Eastern;E;Djang, Y. S.;;;116 Delaware Ave., Ithaca, N. Y.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;84
+P199;201;Eastern;E;Fong, Job,;;;1540 N. 15th St., Philadelphia, Pa.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;85
+P221;224;Eastern;E;Ho, Kie Hong;Cushing Academy;Cushing Academy;Ashburnham, Mass.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;86
+P212;214;Eastern;E;Goong, Winfield;;;Conway Hall, Carlisle, Pa.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;86
+P247;250;Eastern;E;Hsu, Y. S.;;;126 Linden Ave., Ithaca, N. Y.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;87
+P269;272;Eastern;E;Hujo, Jick Cheong;Cushing Academy;Cushing Academy;Ashburnham, Mass.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;88
+P257;260;Eastern;E;Hu, Solvisto K.;;;23 Sacramento St., Cambridge, Mass.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;88
+P267;270;Eastern;E;Huie, Miss Louise;;;225 E. 31st St., New York, N. Y.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;88
+P300;303;Eastern;E;Kim, S. H.;University of Pittsburg;University of Pittsburg;care of Univ. of Pittsburg, Pittsburg, Pa.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;90
+P320;323;Eastern;E;Kwan, Y. C.;Columbia University;Columbia University;507 Hartley Hall, Columbia Univ., New York, N. Y.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;91
+P313;316;Eastern;E;Kuo, Mrs. P.;;;501 W. 121st St., New York, N. Y.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;91
+P347;350;Eastern;E;Lee, Arthur Y.;;;1006 Race St., Philadelphia, Pa.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;92
+P351;354;Eastern;E;Lee, Chung;Cushing Academy;Cushing Academy;Cushing Acad., Ashburnham, Mass.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;93
+P365;368;Eastern;E;Lee, Ken;Cushing Academy;Cushing Academy;Cushing Acad., Ashburnham, Mass.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;93
+P352;355;Eastern;E;Lee, C. L.;;;424 W. 119th St., New York, N. Y.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;93
+P353;356;Eastern;E;Lee, David;;;3238 Chestnut St., Philadelphia, Pa.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;93
+P369;372;Eastern;E;Lee, Miss Mabel;;;53 Bayard St., New York, N. Y.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;94
+P394;397;Eastern;E;Leo, Chee;Emory and Henry College;Emory and Henry College;Emory and Henry College, Emory Va.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;95
+P399;402;Eastern;E;Leong, Shiu;;;277 W. 122nd St., New York, N. Y.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;95
+P408;411;Eastern;E;Lew, T. T.;;;Mr. C. A. Rowland, Athens, Ga.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;95
+P410;413;Eastern;E;Lewie, Gum Goon;Cushing Academy;Cushing Academy;Ashburnham, Mass.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;96
+P416;419;Eastern;E;Li, K. K. Chitang;Dean Academy;Dean Academy;Dean Academy, Franklin, Mass.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;96
+P413;416;Eastern;E;Liang, Che Chiang;;;14 Marshall St., Hartford, Conn.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;96
+P418;421;Eastern;E;Li, Kien Yo;;;306 Eddy St., Ithaca, N. Y.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;96
+P424;427;Eastern;E;Li, Sing Dji;;;47 St. Botolph St., Bethlehem, Pa.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;96
+P438;441;Eastern;E;Lim, Miss Katherine O.;Goucher College;Goucher College;Baltimore, Md.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;97
+P444;447;Eastern;E;Lin, Kyan-zung;;;Mrs. Sanders, Univ. of Va., Charlottesville, Va.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;97
+P449;452;Eastern;E;Ling, Gie Seng;;;243 W. Newton St., Boston, Mass.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;98
+P484;489;Eastern;E;Loo, Carl;Washington and Jefferson University;Washington and Jefferson University;Washington, Pa.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;99
+P476;479;Eastern;E;Lock, Quann;;;5 Foster St., New Bedford, Mass.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;99
+P490;495;Eastern;E;Louis, Hsiao Min;;;2001 19th St., N.W., Washington, D. C.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;100
+P508;513;Eastern;E;Mark, Dick-yen;;;244 N. Reese St., Philadelphia, Pa.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;100
+P524;529;Eastern;E;Moy, Miss Carrie;Baptist Training School;Baptist Training School;Philadelphia, Pa.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;101
+P525;530;Eastern;E;Moy, Bing, Nom;Cushing Academy;Cushing Academy;Ashburnham, Mass.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;101
+P528;533;Eastern;E;Moy, Chenk;Cushing Academy;Cushing Academy;Ashburnham, Mass.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;101
+P521;526;Eastern;E;Meu, Y. C.;Worcester Polytechnic Institute;Worcester Polytechnic Institute;Worcester, Mass.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;101
+P515;520;Eastern;E;Mar, Teh-Che;;;120 Huntington Ave., Boston, Mass.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;101
+P516;521;Eastern;E;Mei, G. C.;;;86 Harrison Ave., Boston, Mass.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;101
+P518;523;Eastern;E;Mei, H. S.;;;86 Harrison Ave., Boston, Mass.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;101
+P543;548;Eastern;E;Ng, Sing Yuen;American International College;American International College;Springfield, Mass.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;102
+P532;537;Eastern;E;Moy, Miss Mamie;Baptist Training School;Baptist Training School;Philadelphia, P.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;102
+P540;545;Eastern;E;New, Miss Wai Tsu;Cambridge School for Girls;Cambridge School for Girls;40 Concord Ave., Cambridge, Mass.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;102
+P529;534;Eastern;E;Moy, Cheung;Cushing Academy;Cushing Academy;Ashburnham, Mass.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;102
+P530;535;Eastern;E;Moy, Cune Fook;Cushing Academy;Cushing Academy;Ashburnham, Mass.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;102
+P531;536;Eastern;E;Moy, Lie Ping;Cushing Academy;Cushing Academy;Ashburnham, Mass.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;102
+P535;540;Eastern;E;Moy, Wing;Cushing Academy;Cushing Academy;Ashburnham, Mass.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;102
+P541;546;Eastern;E;New, W. S.;;;Box 22 Roxbury Crossing Station, Boston, Mass.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;102
+P547;552;Eastern;E;Nye, Joshua Z. T.;;;3 Weybridge St., Middlebury, Vt.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;102
+P564;569;Eastern;E;Quan, Gan Yee;Fork Union Military Academy;Fork Union Military Academy;Fork Union, Va.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;103
+P555;560;Eastern;E;Pai, Miss Hsui San;;;care Mrs. McCarter, 56 Hillside Ave., Madison, N. J.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;103
+P568;573;Eastern;E;Seeto, Chou;Syracuse University;Syracuse University;Sims Hall, Syracuse, N. Y.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;104
+P599;604;Eastern;E;Stone, Miss Phoebe;Goucher College;Goucher College;Baltimore, Md.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;105
+P590;595;Eastern;E;Sien, T. Y.;;Hays Hall;Hays Hall, Washington, Pa.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;105
+P597;602;Eastern;E;Soong, Miss Chung-ling;Wesleyan University;Wesleyan College;Macon, Ga.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;105
+P598;603;Eastern;E;Soong, Miss May-ling;Wesleyan University;Wesleyan College;Macon, Ga.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;105
+P612;617;Eastern;E;Sung, Miss Vong Tsung;Athens College;Athens College;Athens, Ala.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;106
+P607;612;Eastern;E;Sun, H. W.;Columbia University;Columbia University;New York, N. Y.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;106
+P621;626;Eastern;E;Sze, Miss Ellen;;;2750 14th St., N.W., Washington, D. C.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;106
+P625;630;Eastern;E;Sze, R.;;;3475 Sanson St., Philadelphia, Pa.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;106
+P627;632;Eastern;E;Sze, Ying T.;;;74 Huntington Ave., Boston, Mass.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;106
+P804;809;Eastern;E;Wu, H.;;;127 Newberry St., Boston, Mass.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;115
+P046;47;Midwest;M;Chao, W. J.;;;733 S. Thayer St., Ann Arbor, Mich.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;76
+P049;50;Midwest;M;Chaund, Miss A.;;;5519 Monroe Ave., Chicago, Ill.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;76
+P050;51;Midwest;M;Chaund, Miss L.;;;5519 Monroe Ave., Chicago, Ill.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;76
+P016;17;Midwest;M;Chan, J. S.;German Wallace College;German Wallace College;Berea, O.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;77
+P025;26;Midwest;M;Chang, Miss Beulah;University of Wooster;University of Wooster;Wooster, O.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;77
+P018;19;Midwest;M;Chan, Miss Lillian;Wheaton College;Wheaton College;Wheaton, Ill.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;77
+P020;21;Midwest;M;Chan, P. Key;;;637 S. Thayer St., Ann Arbor;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;77
+P026;27;Midwest;M;Chang, C. C.;;;625 S. 12th St., Ann Arbor, Mich.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;77
+P031;32;Midwest;M;Chang, King Fan;;;P. D. Box 704, Golden, Colo.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;77
+P056;57;Midwest;M;Chen, C. H.;;;801 Catherine St., Ann Arbor, Mich.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;78
+P064;65;Midwest;M;Chen, P. H.;;;733 S. Thayer St., Ann Arbor, Mich.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;78
+P083;84;Midwest;M;Cheng, Dah-chun;;;P. O. Box 745, Golden, Colo.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;79
+P641;646;Midwest;M;Tang, Shan-sung;German Wallace College;German Wallace College;Berea, O.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;107
+P634;639;Midwest;M;Tan, C. T.;;;801 Catherine St., Ann Arbor, Mich.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;107
+P635;640;Midwest;M;Tan, N. B.;;;802 Catherine St., Ann Arbor, Mich.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;107
+P646;651;Midwest;M;Teng, Kwangtang;;;1207 Clark St., Urbana, Ill.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;107
+P661;666;Midwest;M;Tong, Kwai;Purdue University;Purdue University;W. La Fayette, Ind.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;108
+P659;664;Midwest;M;Tong, H. Y.;;;1012 W. Oregon St., Urbana, Ill.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;108
+P883;NA;Midwest;M;Thung, Miss Pansy;;;Winfield, Kan.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;108
+P674;679;Midwest;M;Tsai, Hsiang;;;P. O. Box 735, Golden, Colo.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;109
+P710;715;Midwest;M;Un, C. C.;Iowa State College;Iowa State College;Ames, Ia.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;111
+P714;719;Midwest;M;Wai, Miss Katherine;Otterbein University;Otterbein University;Westerville, O.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;111
+P723;728;Midwest;M;Wang, E. T.;University of Chicago;University of Chicago;58 Hitchcock Mall, Chicago, Ill.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;111
+P706;711;Midwest;M;Tsui, Yu Lien;;;P. O. Box 735 Golden, Colo.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;111
+P707;712;Midwest;M;Tsur, L. Y.;;;1310 Springfield Ave., Urbana, Ill.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;111
+P719;724;Midwest;M;Wang, Chinting, M.;;;P. O. Box 704, Golden, Colo.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;111
+P726;731;Midwest;M;Wang, K.;;;733 S. Thayer St., Ann Arbor, Mich.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;112
+P730;735;Midwest;M;Wang, Shao-ying;;;P. O. Box 725, Golden, Colo.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;112
+P732;737;Midwest;M;Wang, Miss S. L.;;;55 E. Lorain St., Oberlin, O.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;112
+P734;739;Midwest;M;Wang, Miss Sui;;;1103 E. Erie St., Albion, Mich.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;112
+P742;747;Midwest;M;Wei, T. S.;;;110 S. Ingalls St., Ann Arbor, Mich.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;112
+P745;750;Midwest;M;Whang, P. H.;;;Houghton, Mich.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;112
+P767;773;Midwest;M;Wong, M. D.;;;615 State St., Madison, Wis.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;114
+P779;785;Midwest;M;Wong, William A.;;;P. O. Box 685, Golden, Colo.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;114
+P816;821;Midwest;M;Yang, Mrs. C. F.;;;1373 57th St., Chicago, Ill.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;116
+P821;826;Midwest;M;Yang, S. C.;;;1373 57th St., Chicago, Ill.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;116
+P825;830;Midwest;M;Yang, We-tsung;;;P. O. Box 695, Golden, Colo.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;117
+P840;845;Midwest;M;Yen, F.;;;1011 Monroe St., Ann Arbor, Mich.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;117
+P851;856;Midwest;M;Young, K. P.;;;617 State St., Madison, Wis.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;118
+P007;7;Midwest;M;Chai, C. L.;;;927 W. Dayton St., Madison, Wis.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;75
+P094;95;Midwest;M;Chien, S. T.;University of Chicago;University of Chicago;60 Hitchcock Hall, Chicago, Ill.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;80
+P122;124;Midwest;M;Chow, C. T.;German Wallace College;German Wallace College;Berea, O.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;81
+P129;131;Midwest;M;Chow, T. H.;University of Chicago;University of Chicago;69 Middle D. Hall, Chicago, Ill.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;81
+P126;128;Midwest;M;Chow, Kwei;;;628½ S. 1st St., Louisville, Ind.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;81
+P127;129;Midwest;M;Chow, Man;;;72 E. 8th Ave., Columbus, O.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;81
+P878;NA;Midwest;M;Ding, Miss Ng I.;Lindenwood College;Lindenwood College;St. Charles, Mo.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;84
+P877;NA;Midwest;M;Ding, Miss Margaret Hie;Moody Institute;Moody Institute;Chicago, Illl.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;84
+P175;177;Midwest;M;Dang, J. Y.;;;1206 W. Springfield Ave., Urbana, Ill.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;84
+P186;188;Midwest;M;Dunn, T. T.;;;1112 W. Johnson St., Madison, Wis.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;84
+P189;191;Midwest;M;Dzun, T. F.;;;733 S. Thayer St., Ann Arbor, Mich.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;84
+P194;196;Midwest;M;Feng, H.Y.;University of Chicago;University of Chicago;70 Hitchcock Hall, Chicago, Ill.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;85
+P192;194;Midwest;M;Fead, T.F.;;;1011 Monroe St., Ann Arbor, Mich.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;85
+P197;199;Midwest;M;Fong, George,;;;4 Monroe St., Detroit, Mich.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;85
+P204;206;Midwest;M;Foò, Shu,P.;;;P. O. Box 695, Golden, Colo.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;85
+P219;222;Midwest;M;Ho, Chung Ning;;;128 Chittenden Ave., Columbus, O.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;86
+P246;249;Midwest;M;Hsu, Y. F. J.;;;433 E. University Ave., Ann Arbor, Mich.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;87
+P248;251;Midwest;M;Hsu, Z. C.;;;311 N. Murray St., Madison, Wis.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;87
+P251;254;Midwest;M;Hu, G. H.;;;1031 W. Johnson St., Madison, Wis.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;88
+P262;265;Midwest;M;Huang, H. L.;;;110 S. Ingalls St., Ann Arbor, Mich.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;88
+P270;273;Midwest;M;Hwang, Hsung-tung;;;5707 Madison Ave., Chicago, Ill.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;88
+P289;292;Midwest;M;Jung, Goey Park;Capital University;Capital University;Columbus, O.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;89
+P286;289;Midwest;M;Jue, P. S.;Indiana University;Indiana University;P. O. Box 234, Bloomington, Ind.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;89
+P271;274;Midwest;M;Hwang, T. F.;;;802 Monroe St., Ann Arbor, Mich.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;89
+P870;293a;Midwest;M;Kan, C. C.;;;901 Green St., Urbana, Ill.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;89
+P291;294;Midwest;M;Kao, Mrs. L. K.;;;1109 E. University Ave., Ann Arbor. Mich.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;90
+P293;296;Midwest;M;Kao, Tsung-te;;;P. O. Box 744, Golden, Colo.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;90
+P299;302;Midwest;M;Kiang, S. S.;;;901 W. Green St., Urbana, Ill.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;90
+P305;308;Midwest;M;Koat, TaKang;;;231 Gilman St., Madison, Wis.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;90
+P308;311;Midwest;M;Koo, V. T.;;;1310 Springfield Ave., Urbana, Ill.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;90
+P310;313;Midwest;M;Ku, T. L.;;;1301 Stoughton St., Urbana, Ill.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;91
+P321;324;Midwest;M;Kwauk, B.;;;701 Langdon St., Madison, Wis.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;91
+P331;334;Midwest;M;Lam, Non;Purdue University;Purdue University;W. Lafayette, Ind.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;92
+P328;331;Midwest;M;Kwong, Yih-kun;;;Box 685 Golden, Colo.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;92
+P341;344;Midwest;M;Law, Mun Lai;;;158 Randolph St., Detroit, Mich.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;92
+P342;345;Midwest;M;Lay, C. Y.;;;705 W. Illinois St., Urbana, Ill.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;92
+P344;347;Midwest;M;Lay, U. C.;;;311 N. Murray St., Madison, Wis.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;92
+P346;349;Midwest;M;Lee, Alex Y.;;;6281/2 S. Ist St., Louisville, Ind.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;92
+P350;353;Midwest;M;Lee, Ching Yin;;;4 Monroe St., Detroit, Mich.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;93
+P355;358;Midwest;M;Lee, Miss Esther Toma;;;412 Brower St., Ypsilanti, Mich.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;93
+P356;359;Midwest;M;Lee, Miss Ethel Toma;;;412 Brower St., Ypsilanti, Mich.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;93
+P357;360;Midwest;M;Lee, H. F.;;;15 Snell Hall, Chicago, Ill.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;93
+P360;363;Midwest;M;Lee, Hungfy Dzehyu;;;910 E 57th St., Chicago, Ill.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;93
+P378;381;Midwest;M;Lee, S. C.;Michigan Agricultural College;Michigan Agricultural College;Michigan Agri. Coll., East Lansing, Mich.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;94
+P374;377;Midwest;M;Lee, Ping;;;P. O. Box 745, Golden, Colo.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;94
+P396;399;Midwest;M;Leong, Mun Fai;Capital University;Capital University;Capital Univ., Columbus, O.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;95
+P389;392;Midwest;M;Lee, Yin Loon;;;4 Monroe St., Detroit, Mich.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;95
+P403;406;Midwest;M;Lew, Chee;;;109/½ E. 12th St., Kansas City, Mo.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;95
+P420;423;Midwest;M;Li, Miss Ma-Li;Wesleyan University;Wesleyan University;Hershey Hall, Mt. Pleasant, Iowa;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;96
+P427;430;Midwest;M;Liang, C. T.;;;522 State St., Madison, Wis.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;96
+P437;440;Midwest;M;Lieng, Y. B.;Hiram College;Hiram College;Hiram College, Hiram, O.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;97
+P434;437;Midwest;M;Liong, T. H.;;;1011 Oregon St., Urbana, Ill.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;97
+P440;443;Midwest;M;Lim, Wei;;;4 Monroe St., Detroit, Mich.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;97
+P442;445;Midwest;M;Lieu, T. C.;;;715 Church St., Ann Arbor, Mich.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;97
+P450;453;Midwest;M;Ling, Miss Margaret;;;2641 Park Ave., Chicago, Ill.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;98
+P453;456;Midwest;M;Ling, Miss Ruth;;;1029 Wesley Ave., Cincinnati, O.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;98
+P460;463;Midwest;M;Liu, D. K.;;;1108 Willard St., Ann Arbor, Mich.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;98
+P461;464;Midwest;M;Liu, Miss Haung Hin;;;132 Spink St., Wooster, O.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;98
+P478;481;Midwest;M;Loh, S.K.;;;1015 W. Johnson St., Madison, Wis.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;99
+P479;482;Midwest;M;Loh, Mrs. S. K.;;;1015 W. Johnson St., Madison, Wis.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;99
+P481;486;Midwest;M;Long, Ye;;;P. O. Box 705, Golden, Col.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;99
+P483;488;Midwest;M;Long, You Hen;;;592 McCrew St., Detroit, Mich.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;99
+P486;491;Midwest;M;Loo, P. C.;;;710 S 12th St., Ann Arbor, Mich.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;99
+P496;501;Midwest;M;Lu, H. T.;;;533 E. University Ave., Ann Arbor, Mich.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;100
+P497;502;Midwest;M;Lu, Maudeh;;;311 N. Murray St., Madison, Wis.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;100
+P498;503;Midwest;M;Lu, S. W.;;;522 State St., Madison, Wis.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;100
+P499;504;Midwest;M;Luke, K. C.;;;P. O. Box 451, East Lansing, Mich.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;100
+P519;524;Midwest;M;Mei, K. T.;;;311 N. Murray St., Madison, Wis.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;101
+P527;532;Midwest;M;Moy, Bum;;;4 Monroe St., Detroit, Mich.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;101
+P545;550;Midwest;M;Nieh, Miss Miriam;Albion College;Albion College;Albion, Mich.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;102
+P548;553;Midwest;M;Nyu, T. Y.;;;912 Nevada St., Urbana, Ill.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;103
+P557;562;Midwest;M;Panhoe, H. A.;;;1206 Springfield Ave., Urbana, Ill.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;103
+P561;566;Midwest;M;Pow, M. C.;;;1203 Springfield Ave., Urbana, Ill.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;103
+P577;582;Midwest;M;Shaw, H. S.;German Wallace College;German Wallace College;Berea, O.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;104
+P586;591;Midwest;M;Shih, Hsuan;Purdue University;Purdue University;W. La Fayette, Ind.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;104
+P583;588;Midwest;M;Shen, S. H.;;;605 S. Thayer St., Ann Arbor, Mich.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;104
+P585;590;Midwest;M;Shen, W. Y.;;;1012 W. Oregon St., Urbana, Ill.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;104
+P882;NA;Midwest;M;Senn, Miss Pauline L.;;;2969 Vernon Ave., Chicago, Ill.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;104
+P603;608;Midwest;M;Sun, Chi-ting;Purdue University;Purdue University;W. La Fayette, Ind.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;105
+P589;594;Midwest;M;Si, Y. H.;;;701 W. Illinois St., Urbana, Ill.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;105
+P601;606;Midwest;M;Sung, C.H.;;;715 Church St., Ann Arbor, Mich.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;105
+P604;609;Midwest;M;Sung, C. Y.;;;733 S. Thayer St., Ann Arbor, Mich.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;105
+P617;622;Midwest;M;Suvoong, Charlie;;;Granville, O.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;106
+P866;871;Midwest;M;Zi, S.;;;306 N. Grant St., W. La Fayette, Ind.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;119
+P876;NA;Western;W;Cheng, Mrs. H. T.;;;Bancroftway, Berkeley, Cal.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;79
+P671;676;Western;W;Toy, James;;;385 E. Davis St., Portland, Ore.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;109
+P672;677;Western;W;Toy, Miss Nettie;;;385 E. Davis St., Portland, Ore.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;109
+P685;690;Western;W;Tsao, M.;;;114½ 12th Ave., S. Seattle, Wash.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;109
+P717;722;Western;W;Wang, Miss Chi Tsau;Pomona College;Pomona College;Claremont, Cal.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;111
+P747;752;Western;W;Wong, Arthur K.;;;224½I St., Sacramento, Cal.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;113
+P750;755;Western;W;Wong, Benj.;;;622 I St., Sacramento, Cal.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;113
+P755;760;Western;W;Wong, Fred;;;1917 Addison St., Berkeley, Cal.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;113
+P771;777;Western;W;Wong, Pukchee;;;827 Grant Ave., San Francisco, Cal.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;114
+P773;779;Western;W;Wong, Shu Jang;;;1917 Addison St., Berkeley, Cal.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;114
+P784;789;Western;W;Wong, Yuk Nam;;;877 Washington St., San Francisco, Cal.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;114
+P791;796;Western;W;Woo, Miss May;Franklin High School;Franklin High School;Seattle, Wash.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;115
+P792;797;Western;W;Woo, Moi Lee;;;611 Waverly St. Palo Alto, Cal.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;115
+P803;808;Western;W;Wu, Ernest;;;133½ 1st. St., Portland, Ore.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;115
+P009;9;Western;W;Chan, Albert K;;;1901 F St., Sacramento, Cal.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;75
+P104;105;Western;W;Chinn, Miss Lucy;;;1008 Main St., Seattle, Wash.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;80
+P105;106;Western;W;Chinn, Miss Maggie;;;1008 Main St., Seattle, Wash.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;80
+P146;148;Western;W;Chu, T. W.;;;749 N. 9th St., Corvallis, Ore.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;82
+P181;183;Western;W;Ding, Harry J.;University of Oregon;University of Oregon;University of Oregon Dormitory, Eugene, Oregon;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;84
+P173;175;Western;W;Da, Miss Lettie;;;1029 Wesley Ave., Cincinnati, O.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;84
+P176;178;Western;W;Dang, Luke T.;;;1917 Addison St., Berkeley, Cal.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;84
+P178;180;Western;W;Denn, E. K.;;;323 Union St., Ada, O.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;84
+P179;181;Western;W;Ding, Edward;;;267 Salmon St., Portland, Ore.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;84
+P180;182;Western;W;Ding, Frank;;;267 Salmon St., Portland, Ore.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;84
+P183;185;Western;W;Dong, Fred;;;717 13th St., Sacramento, Cal.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;84
+P184;186;Western;W;Dong, Harry;;;717 13th St., Sacramento, Cal.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;84
+P211;213;Western;W;Goon, Daniel G.;;;415 2nd St., Portland, Ore.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;86
+P213;215;Western;W;Goon, Miss Rosaline L.;;;415 2nd St., Portland, Ore.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;86
+P225;228;Western;W;Ho, Ny Shing;;;833 Emerson St., Palo Alto, Cal.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;86
+P233;236;Western;W;Hoy, Edward;;;430 I St., Sacramento, Cal.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;87
+P274;277;Western;W;James, Joe;;;414 8th Ave., Seattle, Wash.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;89
+P275;278;Western;W;James, Selma;;;415 8th Ave., S. Seattle, Wash.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;89
+P283;286;Western;W;Jue, Dune Hing;;;2504 Regent St., Berkeley, Cal.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;89
+P284;287;Western;W;Jue, John H.;;;306 2nd St., Portland, Ore.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;89
+P285;288;Western;W;Jue, Jook-Hing;;;2504 Regent St., Berkeley, Cal.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;89
+P288;291;Western;W;Jung, Bryant C.;;;616 Grant Ave., San Francisco, Cal.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;89
+P290;293;Western;W;Kan, Andrew Jr.;;;192 E 49th St., Portland, Ore.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;89
+P295;298;Western;W;Kee, Chin;;;508 7th Ave., S. Seattle, Wash.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;90
+P306;309;Western;W;Kong, Miss Lily;;;2417 Bancroftway, Berkeley, Cal.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;90
+P872;293b;Western;W;Kan, Frank;;;747 N. 9th St., Corvallis, Ore.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;90
+P873;298a;Western;W;Kee, June;;;508 7th Ave., S. Seattle;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;90
+P327;330;Western;W;Kwong, Paul L.;;;312% I St., Sacramento, Cal.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;91
+P329;332;Western;W;Lai, Sun Woo;University of Oregon;University of Oregon;University of Oregon Dormitory, Eugene, Oregon;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;92
+P338;341;Western;W;Law, Fred;;;344 Gilsan St., Portland, Ore.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;92
+P340;343;Western;W;Law, Harry;;;344 Gilsan St., Portland, Ore.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;92
+P354;357;Western;W;Lee, Edward E.;;;Shepards Hall, Corvallis, Ore.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;93
+P361;364;Western;W;Lee, John Quan;;;1818 Blake St., Berkeley, Cal.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;93
+P362;365;Western;W;Lee, Joseph S.;;;1025 Yesler Way, Seattle, Wash.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;93
+P363;366;Western;W;Lee, Joses B.;;;1025 Yesler Way, Seattle, Wash.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;93
+P370;373;Western;W;Lee, Mark W.;;;310 2nd St., Portland, Ore.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;94
+P376;379;Western;W;Lee, Miss Rose;;;2641 Park Ave., Chicago, Ill.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;94
+P383;386;Western;W;Lee, Miss Ruth B.;;;310 2nd St., Port-land, Ore.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;94
+P400;403;Western;W;Leong, Wm.;;;446 3rd St., Portland, Ore.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;95
+P404;407;Western;W;Lew, Don;;;519 roth Ave., Seattle, Wash.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;95
+P407;410;Western;W;Lew, Soon;;;519 10th Ave., Seattle, Wash.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;95
+P411;414;Western;W;Lewis, Miss Joy;Chinese Baptist Mission;Chinese Baptist Mission;Chinese Baptist Mission, Fresno, Cal.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;96
+P412;415;Western;W;Lewis, Paul;;;668 King St., Seattle, Wash.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;96
+P447;450;Western;W;Ling, Miss Bertha Moy;;;506 Mill St., Portland, Ore.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;97
+P452;455;Western;W;Ling, Miss Rose Moy;;;506 Mill St., Portland, Ore.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;98
+P482;487;Western;W;Long, Yick;;;747 N. 9th St., Corvallis, Ore.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;99
+P491;496;Western;W;Low, A. Paul;;;1037 Ramona St., Palo Alto, Cal.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;100
+P503;508;Western;W;Lum, Tsai Yun;;;318 Emerson St., Palo Alto, Cal.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;100
+P504;509;Western;W;Lum, W. Joe;;;710 Sacramento St., San Francisco, Cal.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;100
+P509;514;Western;W;Mark, Ging;;;908 1st Ave., Seattle, Wash.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;101
+P523;528;Western;W;Moi, Lee;;;Box 533, Tulare, Cal.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;101
+P052;53;;†;Chee, George;University of Chicago;University of Chicago;University High School, Chicago, Ill.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;76
+P051;52;;†;Chaund, W. H.;;;100 Randolph St., Chicago, Ill.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;76
+P027;28;;†;Chang, Dai-yen;Northwestern Dental School;Northwestern Dental School;Chicago, Ill.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;77
+P023;24;;†;Chan, Yoke H.;;;3326 Dearborn St., Chicago, Ill.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;77
+P054;55;;†;Chen, B.;Cushing Academy;Cushing Academy;Ashburnham, Mass.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;78
+P072;73;;†;Chen, T. C.;;;18½ Main St., Delaware, O.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;78
+P090;91;;†;Chiang, Y. C.;Lake Forest Academy;Lake Forest Academy;Lake Forest, Ill.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;79
+P087;88;;†;Cheng, Kit;;;351 College Ave., Valparaiso, Ind.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;79
+P088;89;;†;Cheng, P. T.;;;5757 Drexel Ave., Chicago, Ill.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;79
+P632;637;;†;Tam, W. W.;;;225 E. 31st St., New York, N. Y.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;107
+P639;644;;†;Tang, Paul;;;Normandie, Chestnut St., W., Philadelphia, Pa.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;107
+P656;661;;†;Tong, Puo-man;New York University (Law School);New York University (Law School);New York, N. Y.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;108
+P655;660;;†;Tong, Chew;Northwestern University;Northwestern University;Hatfied House, Evanston, Ill.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;108
+P664;669;;†;Tong, S. H.;Tilton Seminary;Tilton Seminary;Tilton, N. H.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;108
+P651;656;;†;Tipp, Y. D.;;;1002 Race St., Philadelphia, Pa.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;108
+P653;658;;†;Tom, W.;;;53 Bayard St., New York, N. Y.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;108
+P670;675;;†;Toy, Fook-wing;;;305 S. Clark St., Chicago, Ill.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;109
+P673;678;;†;Tsai, C. T.;;;316 Lake St., Madison, Wis.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;109
+P677;682;;†;Tsai, P. Y.;;;113 N. Aurora St., Ithaca, N. Y.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;109
+P681;686;;†;Tsang, O. H.;;;26 Lincoln Ave., Amherst, Mass.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;109
+P683;688;;†;Tsao, L. E.;;;690 Asylum Ave., Hartford, Conn.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;109
+P701;706;;†;Tsow, George Y. S.;Grass Valley High School;Grass Valley High School;Grass Valley, Cal.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;110
+P693;698;;†;Tseo, B.;;;Hatfield House, Evanston, Ill.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;110
+P695;700;;†;Tsen, V. Z.;;;Quinby St., Wooster, O.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;110
+P696;701;;†;Tsiang, K. S.;;;1012 W. Oregon St., Urbana, Ill.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;110
+P697;702;;†;Tsin, W. K. T.;;;23 N. Congress St., Athens, O.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;110
+P702;707;;†;Tsu, C. L.;;;389 Cottage St., New Bedford, Mass.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;110
+P703;708;;†;Tsu, Loh;;;1111 W. Dayton St., Madison, Wis.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;110
+P709;714;;†;Tung, Y. C.;;;3303 Walnut St., Philadelphia, Pa.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;111
+P744;749;;†;Wen, T. F.;Mt. Hermon School;Mt. Hermon School;Mt. Hermon, Mass.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;112
+P729;734;;†;Wang, Pih;;;7 Bryant Ave., Ithaca, N. Y.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;112
+P748;753;;†;Wong, Austin;;;297 Hull St., Athens, Ga.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;113
+P749;754;;†;Wong, A. Y.;;;3546 Wentworth Ave., Chicago, Ill.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;113
+P753;758;;†;Wong, C. Y.;;;2216 Jackson Blvd., Chicago, Ill.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;113
+P762;768;;†;Wong, K. K.;;;100 Randolph St., Chicago, Ill.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;113
+P777;783;;†;Wong, W. B.;Cushing Academy;Cushing Academy;Ashburnham, Mass.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;114
+P772;778;;†;Wong, Q. C.;Tilton Seminary;Tilton Seminary;Tilton, N. H.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;114
+P766;772;;†;Wong, Louis;;;5814 Quinby Ave., Cleveland, O.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;114
+P775;781;;†;Wong, T. T.;;;14 Oxford St., Boston, Mass.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;114
+P776;782;;†;Wong, U. C.;;;1418 L St., N. W., Washington, D. C.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;114
+P783;789;;†;Wong, Yuk A.;;;3564 Wentworth Ave., Chicago, Ill.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;114
+P805;810;;†;Wu, M. C.;University of Maine;University of Maine;Orono, Maine;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;116
+P822;827;;†;Yang, S. F. E.;University of Pennsylvania;University of Pennsylvania;21 Bishop White, Dorm, Philadelphia, Pa.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;116
+P808;813;;†;Wu, N. Q.;;;454 Chestnut St., Bethlehem, Pa.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;116
+P838;843;;†;Yei, T. S.;Oberlin College;Oberlin;Council Hall, Oberlin, O.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;117
+P831;836;;†;Yao, C. L.;University of Pennsylvania;University of Pennsylvania;23 Graduate, U. of P. Dorm, Philadelphia, Pa.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;117
+P830;835;;†;Yao, C. K.;University of Pennsylvania;University of Pennsylvania;University of Pennsylvania, W. Philadelphia, Pa.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;117
+P827;832;;†;Yang, Y. H.;;;124 S. 34th St., Philadelphia, Pa.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;117
+P842;847;;†;Yim, A. S.;;;34 11th Ave., Columbus, O.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;117
+P844;849;;†;Yim, Daniel J.;;;1502 McAllister St., San Francisco, Cal.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;117
+P845;850;;†;Yim, Shen;;;427 Wabash Ave., Chicago, Ill.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;118
+P846;851;;†;Yin, C. P.;;;P. O. Box 156 Univ. Sta., Urbana, Ill.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;118
+P848;853;;†;Yip, Kingpo P.;;;7-9 Mott St., New York, N. Y.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;118
+P109;111;;†;Chin, Q. C.;Michigan Agricultural College;Michigan Agricultural College;Lansing, Mich.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;80
+P110;112;;†;Chin, Tow;;;3546 Wentworth Ave., Chicago, Ill.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;80
+P131;133;;†;Chow, Y. C.;;;291 Sargeant St., Hartford, Conn.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;81
+P170;172;;†;Chung, Miss Pansy;;;;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;83
+P187;189;;†;Dunn, Y. Y.;;;1011 W. Oregon St., Urbana, Ill.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;84
+P203;205;;†;Foon, Charles,;;;223 31st St., New York, N. Y.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;85
+P206;208;;†;Fu, A.G.;;;305 S. Clark St., Chicago, Ill.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;85
+P208;210;;†;Fu, Gajune,;;;1156 LaSalle Ave., Chicago, Ill.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;85
+P230;233;;†;Horn, Chan;James Madison University;James Madison University;Decatur, Ill.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;86
+P223;226;;†;Ho, Lin;;;3613 Locust St., Philadelphia, Pa.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;86
+P227;230;;†;Ho, S. C.;;;305 S. Clark St., Chicago, Ill.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;86
+P228;231;;†;Ho, W. S.;;;404 W. 146th St., New York, N. Y.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;86
+P259;262;;†;Hua, Y. P.;Columbia University;Columbia University;627 Livingston Hall, New York, N. Y.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;88
+P264;267;;†;Huang, T. M.;;;123 34th St., Philadelphia, Pa.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;88
+P265;268;;†;Huie, Miss Alice;;;223 E. 31st St., New York, N. Y.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;88
+P268;271;;†;Huie, Kin;;;225 E. 31st St., New York, N. Y.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;88
+P276;279;;†;Jean, Wing;;;278 State St., Chicago, Ill.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;89
+P282;285;;†;Jer, H. T.;;;507 S. Goodwin St., Urbana, Ill.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;89
+P316;319;;†;Kwai, Fung-hing;;;125 Quarry St., Ithaca, N. Y.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;91
+P325;328;;†;Kwong, Hsukun;;;34 Van DeVentu St., Princeton, N. J.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;91
+P334;337;;†;Lau, K. L.;;;607 Union St., Valparaiso, Ind.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;92
+P359;362;;†;Lee, H. Q.;Virginia Christian College;Virginia Christian College;Virginia Christian College, Lynchburg, Va.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;93
+P349;352;;†;Lee, Boo;;;301 S. Clark St., Chicago, Ill.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;93
+P463;466;;†;Liu, George;German Wallace College;German Wallace College;Berea, O.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;98
+P495;500;;†;Loy, Khong;;;The Chinese Reform News, 7 Chatham Sp., New York, N. Y.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;100
+P502;507;;†;Lum, A. C.;;;1029 Ayres Court, Evanston, Ill.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;100
+P506;511;;†;Lym, Yinn F.;;;863 Harrison St., Oakland, Cal.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;100
+P536;541;;†;Moy, Fook-cheung;;;324 S. Clark St., Chicago, Ill.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;102
+P537;542;;†;Moy, K. G.;;;Stiles Hall, Valparaiso, Ind.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;102
+P566;571;;†;San, Harry;;;603 W. 139th St., New York, N. Y.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;103
+P572;577;;†;Seito, Miss Margaret;;;P. O. Box 242 Sebastopol, Cal.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;104
+P575;580;;†;Seth, Miss Maude Y.;;;1312 55th St., Chicago, Ill.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;104
+P576;581;;†;Seth, Shumtock;;;5518 Madison, Ave., Chicago, Ill.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;104
+P592;597;;†;Singleton, Miss H. S.;Wesleyan University;Wesleyan College;Macon, Ga.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;105
+P593;598;;†;Sin, I. Y.;Wheaton College;Wheaton College;Wheaton, Ill.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;105
+P591;596;;†;Siew, R. de L.;;;2715 W. Adams St., Chicago, Ill.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;105
+P594;599;;†;Siu, W. V.;;;2715 W. Adams St., Chicago, Ill.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;105
+P595;600;;†;Soohoo, P.;;;1308 W. Springfield Ave., Urbana, Ill.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;105
+P765;771;;†;Wong, K. Y.;Tilton Seminary;Tilton Seminary;Tilton, N. H.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;113
+P298;301;;;Key, Y. G.;;;Ashburnham, Mass.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;90
+P303;306;;;King, T. K. James F.;;;231 Cattell St., Easton, Pa.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;90
+P373;376;;;Lee, Paul;;;2641 Park Ave., Chicago, Ill.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;94
+P375;378;;;Lee, Miss Kosa;;;2641 Park Ave., Chicago, III.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;94
+P381;384;;;Lee, Miss Sophia;;;2641 Park Ave., Chi-cago, Ill.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;94
+P397;400;;;Leong, S. C.;;;100 E. Randolph St., Chicago, Ill.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;95
+P398;401;;;Leong, S. K.;;;Hatfield House, Evanston, Ill.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;95
+P402;405;;;Leon, Manling H.;;;1125 Broadway, New York, N. Y.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;95
+P425;428;;;Li, Shuokee;Bethlehem Preparatory School;Bethlehem Preparatory School;Bethlehem, Pa.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;96
+P426;429;;;Liang, C. S.;Northwestern University;Northwestern University;Northwestern University, Evanston, Ilinois;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;96
+P432;435;;;Liang, K. V.;;;Mounett Hotel, Sheridan Ave., Evanston, Ill.;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;97
+P456;459;;;;;;;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;98
+P881;NA;;;Mai, Miss R. Y.;;;;;1911;1912;Chinese Students' Alliance, Directory of the Chinese Students in the United States 1911-1912;100

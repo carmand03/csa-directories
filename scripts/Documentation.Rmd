@@ -1,0 +1,260 @@
+---
+title: "Documentation on the Data Processing of Students' Directories"
+author: "Cécile Armand"
+date: "2024-07-14"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Chinese Students' Alliance (CSA)
+
+For each directory we followed the same workflow in 5 main steps:  
+
+  1. The first step was to convert the PDF file from HathiTrust or Internet Archive into a set of high-quality images (one file for each page) using the ENP Corpus Creator App.
+  2. Extract the information on the students into a tabular format, with one row for each student and column for each category of information. We use [Claude](https://claude.ai/) which performs very well on this task. The prompts are provided below. 
+  3. Consolidate the tabular data using Excel and R (expand abbreviations, add source information, join with Chinese names)
+  4. Prepare the data for import into LMBD
+  5. Compile the data into one giant table to identify individuals present in different successive directories and compute the duration of their membership in the Association or their stay in the US. Alternatively, use R (join functions) to find duplicate across separate tables (easier to manipulate). 
+
+## 1912 Directory
+
+Editors' Note p.119: "Some thirty names were returned by pupils from New York City, but as this Directory 1s meant primarily for the use of students above the grammar schools, their names have been omitted."
+<br>
+
+Statistics are provided p. 119: 
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-j6zm{font-weight:bold;text-align:left;vertical-align:bottom}
+.tg .tg-7zrl{text-align:left;vertical-align:bottom}
+</style>
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-j6zm">Sections</th>
+    <th class="tg-j6zm">Members</th>
+    <th class="tg-j6zm">Non-Members</th>
+    <th class="tg-j6zm">Total</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="tg-7zrl">Eastern</td>
+    <td class="tg-7zrl">201</td>
+    <td class="tg-7zrl">127</td>
+    <td class="tg-7zrl">328</td>
+  </tr>
+  <tr>
+    <td class="tg-7zrl">Midwest</td>
+    <td class="tg-7zrl">121</td>
+    <td class="tg-7zrl">123</td>
+    <td class="tg-7zrl">244</td>
+  </tr>
+  <tr>
+    <td class="tg-7zrl">Western</td>
+    <td class="tg-7zrl">42</td>
+    <td class="tg-7zrl">66</td>
+    <td class="tg-7zrl">108</td>
+  </tr>
+  <tr>
+    <td class="tg-7zrl">Unreturned (Missing)</td>
+    <td class="tg-7zrl">101</td>
+    <td class="tg-7zrl">96</td>
+    <td class="tg-7zrl">197</td>
+  </tr>
+  <tr>
+    <td class="tg-7zrl">Total</td>
+    <td class="tg-7zrl">465</td>
+    <td class="tg-7zrl">412</td>
+    <td class="tg-7zrl">877</td>
+  </tr>
+</tbody>
+</table>
+
+### Data Extraction 
+
+Data Extraction with Claude. 
+
+  * **Prompt 1**: "Please extract the information from this list of members in a tabular format with four columns (1) Id (2) Section (E, M, W, etc) (3) Name (4) University (5) Address. Please add a new "Membership in January, 1912" column when a “*” is found." 
+  * **Prompt 2**: "Please continue with this image." -> to be repeated until the last page.
+
+
+### Data Consolidation 
+
+With Excel 
+
+  * Expand abbreviations (sections, universities)  
+  * Add a custom ID for missing Ids in the original source
+  * Normalize universities names
+  * Add Source Name and Pages
+  
+With R
+
+ * Extract gender (Miss, Mrs.)
+ * Separate surname and given name or initials
+ * Extract city and state from address 
+ * Add geographical coordinates 
+ * Join with Chinese Names (using the Source Id as the join columns)
+	
+Further Consolidation	
+
+  * Add Pinyin transliteration of Chinese names (Using MCBD Data Helper). 
+  * Infer university from known city/address
+
+
+## 1914 Directory
+
+### Data Extraction 
+
+Data Extraction with Claude:  
+
+  * **Prompt 1**: "I will now provide a list of students with some information on these students. The complete information about a student is in this order: Name in Chinese; name in English; highest academic degree obtained; native province; means of support; the year of arrival; course of study; institution and mail address. Please extract the information into a tabular format with 9 columns. Please leave the cell blank is a specific information is not provided. Where the scholarship is not specified, it generally means the student is a private student. When the year of coming to the United States is not mentioned, it is, in the case of a provincial student, a failure to secure such information, but otherwise it generally means the student is native born (USA). When the course of study, in the case of a college or university student, is not specified, it is understood to be academic." 
+  * **Prompt 2**: "Please correct the table with this additional information : the first figure (from 1 to 21) refers to the province of birth according to this classification (classification provided below). Additionally, please take into consideration the abbreviations for the nature of scholarship (see below)."
+  * **Prompt 3**: "Great Work! Please continue with this image" -> to be repeated until the last page.
+  
+  
+Claude replies: 
+
+  * **Prompt 2**: "I've updated the Native Province column with the corresponding numbers and names where provided, and included the nature of scholarship in the Means of Support column where applicable. The Year of Arrival has been adjusted to show the full year where possible, based on the information given."
+  * **Prompt 3**: "I've included the information as presented in the image. Some entries may have incomplete information, and I've left those cells blank as instructed. The numbers in the Native Province column correspond to the classification you provided earlier."
+  
+### Provinces
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-0lax">1.</th>
+    <th class="tg-0lax">Kirin</th>
+    <th class="tg-0lax">8.</th>
+    <th class="tg-0lax">Fukien</th>
+    <th class="tg-0lax">15.</th>
+    <th class="tg-0lax">Hupeh</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">2.</td>
+    <td class="tg-0lax">Funtien</td>
+    <td class="tg-0lax">9.</td>
+    <td class="tg-0lax">Kwantung</td>
+    <td class="tg-0lax">16.</td>
+    <td class="tg-0lax">Honan</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3.</td>
+    <td class="tg-0lax">Hulungkiang</td>
+    <td class="tg-0lax">10.</td>
+    <td class="tg-0lax">Kwansi</td>
+    <td class="tg-0lax">17.</td>
+    <td class="tg-0lax">Shensi</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">4.</td>
+    <td class="tg-0lax">Chili</td>
+    <td class="tg-0lax">11.</td>
+    <td class="tg-0lax">Kwaichow</td>
+    <td class="tg-0lax">18.</td>
+    <td class="tg-0lax">Shansi</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">5.</td>
+    <td class="tg-0lax">Shantung</td>
+    <td class="tg-0lax">12.</td>
+    <td class="tg-0lax">Yunan</td>
+    <td class="tg-0lax">19.</td>
+    <td class="tg-0lax">Anhui</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">6.</td>
+    <td class="tg-0lax">Kiangsu</td>
+    <td class="tg-0lax">13.</td>
+    <td class="tg-0lax">Szechuen</td>
+    <td class="tg-0lax">20.</td>
+    <td class="tg-0lax">Kiangsi</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">7.</td>
+    <td class="tg-0lax">Chekiang</td>
+    <td class="tg-0lax">14.</td>
+    <td class="tg-0lax">Hunan</td>
+    <td class="tg-0lax">21.</td>
+    <td class="tg-0lax">Kansu</td>
+  </tr>
+</tbody></table>
+
+### Nature of Scholarship
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-7zrl{text-align:left;vertical-align:bottom}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-7zrl">C</th>
+    <th class="tg-0lax">Central or Board of Education</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="tg-7zrl">H</td>
+    <td class="tg-0lax">Hanyang</td>
+  </tr>
+  <tr>
+    <td class="tg-7zrl">I</td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Indemnity</span></td>
+  </tr>
+  <tr>
+    <td class="tg-7zrl">N</td>
+    <td class="tg-0lax">Nanyang or Board of <span style="font-weight:400;font-style:normal">Communication</span></td>
+  </tr>
+  <tr>
+    <td class="tg-7zrl">P1</td>
+    <td class="tg-0lax">Peiyang</td>
+  </tr>
+  <tr>
+    <td class="tg-7zrl">P</td>
+    <td class="tg-0lax">Provincial</td>
+  </tr>
+  <tr>
+    <td class="tg-7zrl">S</td>
+    <td class="tg-0lax">Semi-government</td>
+  </tr>
+  <tr>
+    <td class="tg-7zrl"></td>
+    <td class="tg-0lax">Army, Navy, Customs.</td>
+  </tr>
+</tbody>
+</table>
+
+### Data Consolidation 
+
+With Excel 
+
+  1. Transfer to the "Institution" column misplaced data in the "course of study" column (Private School, High School). They are easily identifiable as they are put in italics in the original source. 
+  2. Check and correct Chinese names (chase for misspelled characters, as they are handwriten and barely legible on the original source, or hallucinations in the case of missing names). 
+  3. Expand abbreviations in the "Course of Study" and "Institution" columns. 
+  4. Add Pinyin transliteration of Chinese names (Use MCBD Data Helper)
+  
+With R 
+
+  * Extract Surname and Given Name/Initial from English Names
+  * Extract Patronyms and First Names from Chinese names
+  * Extract gender (Miss, Mrs.)
+  * Extract city and state from address 
+  * Add geographical coordinates 
+  
